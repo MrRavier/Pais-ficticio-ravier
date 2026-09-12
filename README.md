@@ -25,6 +25,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `historia/1935-1939.md` — normalização pós-1934, Guarda Nacional, reforma constitucional, governo Graudiņš e pressão soviética de 1939.
 - `historia/1940-1944.md` — ocupação e anexação soviética, criação da RSS, deportação de 1941, ocupação alemã, divisão administrativa sob o Ostland e retorno soviético em 1944.
 - `historia/1945-1949.md` — reconstrução stalinista, MGB, censura, primeira expansão territorial, Operação Priboi e coletivização.
+- `historia/1950-1954.md` — reforma dos raions, consolidação de Valgamaa, incorporação de Antsla e Võru, morte de Stalin e criação do KGB republicano.
 
 ### Resumos
 - `resumos/1920-1924.md` — resumo do primeiro período.
@@ -33,6 +34,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `resumos/1935-1939.md` — resumo do quarto período.
 - `resumos/1940-1944.md` — resumo do período de ocupações, guerra e restauração da RSS.
 - `resumos/1945-1949.md` — resumo da reconstrução, primeira expansão soviética e coletivização.
+- `resumos/1950-1954.md` — resumo da grande expansão territorial e da transição pós-Stalin.
 
 ### Personagens
 - `personagens/1920-1924.md` — primeira geração política e administrativa.
@@ -41,3 +43,4 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `personagens/1935-1939.md` — transição geracional, reforma constitucional, criação da Guarda Nacional e crise de 1939.
 - `personagens/1940-1944.md` — liderança soviética local, destinos da velha elite, colaboração, continuidade legalista e ocupação alemã.
 - `personagens/1945-1949.md` — consolidação soviética, segurança, censura, expansão territorial, coletivização e resistência rural.
+- `personagens/1950-1954.md` — integração territorial, transição pós-Stalin, reorganização da segurança e novas lideranças.
