@@ -14,6 +14,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 8. Mudanças territoriais posteriores, inclusive as futuras incorporações de Valgamaa e Võrumaa no período soviético, devem ser justificadas dentro da cronologia e não retroativamente tratadas como parte do Estado fundador.
 9. Retcons aprovados pelo usuário substituem versões anteriores do cânone e devem ser atualizados nos documentos pertinentes.
 10. Figuras fictícias importantes devem ser nomeadas à medida que entram na história, com origem linguística, função e posição política coerentes com a escala do país.
+11. **O destino pós-soviético permanece deliberadamente em aberto.** Até decisão expressa do usuário, não são cânone: restauração ou não da independência, fronteiras pós-URSS, nome moderno do país, regime posterior, adesão à União Europeia, OTAN ou outra aliança/organização, nem qualquer solução definitiva para o período posterior ao domínio soviético.
 
 ## Estrutura atual
 
@@ -21,13 +22,16 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `historia/1920-1924.md` — cronologia detalhada dos cinco primeiros anos.
 - `historia/1925-1929.md` — consolidação política, primeira sucessão de governo, reforma monetária e início da crise internacional.
 - `historia/1930-1934.md` — Grande Depressão, governo Mežkalns, recuperação econômica, radicalização política e crise constitucional de 1934.
+- `historia/1935-1939.md` — normalização pós-1934, Guarda Nacional, reforma constitucional, governo Graudiņš e pressão soviética de 1939.
 
 ### Resumos
 - `resumos/1920-1924.md` — resumo do primeiro período.
 - `resumos/1925-1929.md` — resumo do segundo período.
 - `resumos/1930-1934.md` — resumo do terceiro período.
+- `resumos/1935-1939.md` — resumo do quarto período.
 
 ### Personagens
 - `personagens/1920-1924.md` — primeira geração política e administrativa.
 - `personagens/1925-1929.md` — continuidade da geração fundadora e novas figuras econômicas, educacionais e políticas.
 - `personagens/1930-1934.md` — evolução da geração fundadora, novas figuras culturais e surgimento da direita autoritária organizada.
+- `personagens/1935-1939.md` — transição geracional, reforma constitucional, criação da Guarda Nacional e crise de 1939.
