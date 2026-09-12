@@ -73,6 +73,10 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `auditorias/auditoria-realismo-e-estilo-ia.md` — auditoria de plausibilidade, violência/repressão, demografia, nomenclatura e estilo; implementada na segunda edição.
 - `retcons/retcon-geral-1920-1979.md` — consolidação das correções gerais aprovadas.
 
+### Pesquisa histórica
+- `pesquisa/walk-historico-e-fronteiras.md` — relação entre o Kreis Walk histórico e as fronteiras canônicas revisadas.
+- `pesquisa/demografia-sovietica-retcon.md` — referências censitárias usadas para recalibrar a população soviética.
+
 ## Série demográfica de trabalho da segunda edição
 
 - 1922: ~12,8 mil
