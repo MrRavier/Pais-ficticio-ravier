@@ -29,6 +29,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `historia/1945-1949.md` — reconstrução stalinista, MGB, censura, primeira expansão territorial, Operação Priboi e coletivização.
 - `historia/1950-1954.md` — reforma dos raions, consolidação de Valgamaa, incorporação de Antsla e Võru, morte de Stalin e criação do KGB republicano.
 - `historia/1955-1959.md` — incorporação integral de Valkas novads e Alūksnes novads, desestalinização limitada, transição Kivilo–Vahtramäe e primeiro censo da RSS madura.
+- `historia/1960-1964.md` — integração da RSS madura, urbanização, reformas de Khrushchev, política linguística, cultura võro e consolidação da vigilância burocrática.
 
 ### Resumos
 - `resumos/1920-1924.md` — resumo do primeiro período.
@@ -39,6 +40,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `resumos/1945-1949.md` — resumo da reconstrução, primeira expansão soviética e coletivização.
 - `resumos/1950-1954.md` — resumo da grande expansão territorial e da transição pós-Stalin.
 - `resumos/1955-1959.md` — resumo do fechamento das fronteiras soviéticas maduras e da mudança geracional da liderança.
+- `resumos/1960-1964.md` — resumo da integração territorial, reformas administrativas, política cultural e transição no KGB/censura.
 
 ### Personagens
 - `personagens/1920-1924.md` — primeira geração política e administrativa.
@@ -49,6 +51,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `personagens/1945-1949.md` — consolidação soviética, segurança, censura, expansão territorial, coletivização e resistência rural.
 - `personagens/1950-1954.md` — integração territorial, transição pós-Stalin, reorganização da segurança e novas lideranças.
 - `personagens/1955-1959.md` — liderança pós-Stalin, tecnocratas, segurança, censura e continuidade da velha república.
+- `personagens/1960-1964.md` — elite pós-stalinista, tecnocratas, educação, cultura regional, memória histórica e burocratização do controle político.
 
 ### Decisões territoriais
 - `decisoes/territorio-extra-opcoes.md` — decisão canônica que fixa Võru e aprova Alūksne, definindo a forma territorial soviética madura.
