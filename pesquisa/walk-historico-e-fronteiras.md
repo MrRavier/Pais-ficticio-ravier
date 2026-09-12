@@ -1,27 +1,31 @@
 # Walk histórico e comparação com as fronteiras do projeto
 
-> **Status:** nota de pesquisa; não altera automaticamente o cânone territorial.
+> **Status:** nota de pesquisa. As fronteiras canônicas estão fixadas em `decisoes/territorio-extra-opcoes.md` e no retcon geral de 1920–1979.
 
-## Situação canônica ao fim de 1954
+## Relação entre Walk histórico e o território canônico
 
-O cânone atual da RSS de Valga–Valka ao fim de 1954 corresponde aproximadamente a:
+O Estado de 1920 nasce apenas da cidade indivisa de **Walk / Valga–Valka** e de seu pequeno perímetro municipal. Ele não pretende restaurar o distrito imperial de Walk.
 
-- atual Condado de Valga (Estônia);
-- atual Condado de Võru (Estônia);
-- núcleo histórico urbano de Valka, isto é, a parte letã da antiga cidade indivisa de Walk;
-- Põlva permanece fora.
+Durante o período soviético, o território cresce por transferências administrativas sucessivas. Desde 1957, a forma madura da RSS corresponde, em equivalência moderna, a:
 
-Portanto, se um mapa moderno em vermelho mostrar **todo o atual Valkas novads**, ele vai além do cânone atual: até 1954 não foi estabelecida a incorporação de todo o município moderno letão de Valka. O cânone inclui apenas o núcleo histórico de Valka, salvo retcon posterior.
+- **Valga County** inteiro;
+- **Võru County** inteiro;
+- **Valkas novads** inteiro;
+- **Alūksnes novads** inteiro.
+
+Põlva, Smiltene, Valmiera, Gulbene, Cēsis e outras unidades não aprovadas permanecem fora. As referências a unidades modernas servem apenas para definir o contorno do mapa; os atos das décadas de 1940 e 1950 usam raions, selsoviets e outras unidades soviéticas então vigentes.
+
+Ao fim de 1954, a RSS ainda não possuía a configuração final: a transferência do lado de Valka ocorre em 1955 e a de Alūksne em 1957.
 
 ## Walk não era uma governadoria
 
-No Império Russo, a unidade superior era a **Governadoria da Livônia** (Gouvernement Livland / Лифляндская губерния). Walk era a sede do **Kreis Walk / Valkas apriņķis / Валкский уезд**, isto é, um distrito/condado subordinado à governadoria.
+No Império Russo, a unidade superior era a **Governadoria da Livônia** (Gouvernement Livland / Лифляндская губерния). Walk era a sede do **Kreis Walk / Valkas apriņķis / Валкский уезд**, um distrito subordinado à governadoria.
 
-O Kreis Walk foi criado na reforma de 1783 a partir de partes dos antigos distritos de Riga e Wenden/Cēsis. No final do Império Russo tinha cerca de 120.585 habitantes no censo de 1897 e era muito maior do que a cidade de Walk.
+O Kreis Walk foi criado na reforma de 1783 a partir de partes de antigos distritos de Riga e Wenden/Cēsis. No fim do Império Russo tinha cerca de 120 mil habitantes e era muito maior que a cidade de Walk.
 
-## Paróquias históricas do Kreis Walk
+## Paróquias históricas associadas ao Kreis Walk
 
-A literatura histórica lista onze grandes paróquias eclesiásticas no Kreis Walk:
+Entre as principais áreas e paróquias historicamente ligadas ao distrito estavam:
 
 1. Gaujiena (Adsel)
 2. Ērģeme (Ermes)
@@ -35,51 +39,44 @@ A literatura histórica lista onze grandes paróquias eclesiásticas no Kreis Wa
 10. Trikāta (Trikaten)
 11. Ēvele (Wohlfahrt)
 
-## Correspondência aproximada com municípios modernos visíveis no mapa
+## Correspondência aproximada com unidades modernas
 
 ### Valkas novads
-Sim. É o núcleo mais óbvio da antiga área de Walk, com Valka, Ērģeme, Lugaži e áreas próximas.
-
-### Smiltenes novads
-Em parte grande, sim. Smiltene, Palsmane, Gaujiena, Ape, Trapene, Grundzāle e áreas próximas estiveram ligadas ao antigo Kreis Walk. Porém o atual município de Smiltene também contém áreas como Rauna/Drusti que historicamente se relacionavam mais com Wenden/Cēsis; portanto não se deve equiparar integralmente o atual Smiltenes novads ao Kreis Walk.
+Possui ligação direta com o núcleo histórico de Walk e inclui Valka, Ērģeme, Lugaži e áreas próximas. No cânone, a cidade de Valka faz parte do Estado desde 1920; as áreas rurais equivalentes ao restante do atual Valkas novads entram na reorganização soviética de 1955.
 
 ### Alūksnes novads
-Grande parte do atual território de Alūksne pertenceu ao antigo Kreis Walk, incluindo Alūksne e várias paróquias do nordeste letão.
+Alūksne/Marienburg e grande parte do território moderno integravam o Kreis Walk. No cânone, a área equivalente ao atual Alūksnes novads é transferida em 1957. Ape e áreas que hoje pertencem a Smiltene ficam fora.
+
+### Smiltenes novads
+Partes importantes do município moderno — incluindo Smiltene, Palsmane, Gaujiena, Ape, Trapene e Grundzāle — estiveram ligadas ao Kreis Walk. O município moderno, porém, também reúne áreas de outras tradições administrativas. **Smiltenes novads não integra o país fictício.**
 
 ### Gulbenes novads
-Sim, em grande medida. Gulbene, Tirza, Velēna e áreas associadas faziam parte do Kreis Walk; fontes do museu de Gulbene afirmam que o território do atual município esteve na Governadoria de Vidzeme/Livônia, distrito de Valka.
+Gulbene, Tirza, Velēna e áreas próximas estiveram dentro do antigo distrito. **Gulbenes novads permanece fora do cânone territorial.**
 
 ### Valmieras novads
-Somente partes. Trikāta e Ēvele, hoje dentro do espaço administrativo de Valmiera, faziam parte do Kreis Walk. A maior parte do atual Valmieras novads não era Walk.
+Somente partes, como Trikāta e Ēvele, pertenciam ao Kreis Walk. **Valmieras novads permanece fora.**
 
 ### Cēsu novads
-Não como conjunto. Wenden/Cēsis era outro Kreis. Alguns limites modernos de municípios podem cortar antigas fronteiras, mas Cēsis não deve ser tratado como território de Walk.
+Cēsis/Wenden era centro de outro Kreis. Não deve ser tratado como extensão natural de Walk e permanece fora.
 
-### Madonas novads e Balvu novads
-Não são parte central do histórico Kreis Walk e não devem ser associados automaticamente a ele.
+## O lado estoniano
 
-## Lado estoniano: cuidado com a equivalência
+O atual **Valga County** não é simples continuação do Kreis Walk. Valgamaa foi montado na época da independência estoniana com territórios de vários condados anteriores, incluindo áreas de Võrumaa, Tartumaa e Viljandimaa.
 
-O atual **Condado de Valga** não é simplesmente o antigo Kreis Walk estoniano. Quando a Estônia criou Valgamaa em 1919–1920, o novo condado foi montado com territórios retirados de vários condados históricos:
-
-- de Võrumaa: áreas como Kaagjärve, Karula, Laanemetsa e Taheva;
-- de Tartumaa: Tõlliste, Laatre, Sangaste, Keeni e Kuigatsi;
-- de Viljandimaa: Jõgeveste, Patküla, Koorküla, Taagepera, Leebiku, Helme, Lõve e Hummuli.
-
-Portanto o Valgamaa moderno é uma construção administrativa do período de independência estoniana e não corresponde ao antigo Kreis Walk.
+Por isso, a incorporação de todo o atual Valga County à RSS fictícia no período soviético não é apresentada como “restauração de Walk”. Ela decorre das reformas e transferências administrativas da linha alternativa.
 
 ## Võru
 
-Võru não fazia parte do Kreis Walk imperial. Era sede do **Kreis Werro / Võru County**, outro distrito da Governadoria da Livônia. A presença de Võru no país fictício decorre das transferências soviéticas do nosso cânone, e não de uma herança administrativa de Walk.
+Võru não pertencia ao Kreis Walk. Era sede do **Kreis Werro / Võru County**, outra unidade da Governadoria da Livônia. Sua entrada na RSS em 1954 é exclusivamente consequência da reorganização soviética e também fornece à república uma fronteira direta com a RSFSR.
 
-## Implicação para o worldbuilding
+## Uso histórico do Kreis Walk dentro da lore
 
-O antigo Kreis Walk fornece uma base histórica plausível para propaganda, memória regional ou debates sobre fronteiras envolvendo partes de atuais Valka, Smiltene, Alūksne, Gulbene e pequenos trechos de Valmiera. Porém isso **não cria automaticamente uma reivindicação territorial** no cânone: o Estado de 1920 nasceu da cidade indivisa de Valga–Valka, e não como restauração do antigo Kreis Walk.
+A memória do Kreis Walk pode aparecer em pesquisa histórica, propaganda regional, argumentos nacionalistas ou debates administrativos, especialmente em relação a Valka e Alūksne. Ela não constitui fundamento jurídico do Estado de 1920 nem gera reivindicação automática sobre Smiltene, Gulbene, Valmiera ou Cēsis.
 
-## Fontes consultadas
+## Fontes de referência
 
-- Visit Valga–Valka, história da cidade e criação do Kreis Walk em 1783.
-- Eesti Entsüklopeedia e história de Valgamaa.
-- Kreis Walk / Valkas apriņķis, lista de paróquias históricas.
-- Gulbenes novada vēstures un mākslas muzejs, histórico administrativo de Gulbene.
-- registros e mapas do Rahvusarhiiv da Estônia.
+- história municipal de Valga–Valka;
+- registros e mapas do Rahvusarhiiv da Estônia;
+- estudos administrativos sobre Valgamaa;
+- história do Valkas apriņķis / Kreis Walk;
+- materiais históricos do museu regional de Gulbene.
