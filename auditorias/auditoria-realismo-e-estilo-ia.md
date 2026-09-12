@@ -1,6 +1,6 @@
-# Auditoria não-canônica — realismo histórico, dureza do conflito e sinais de texto gerado por IA
+# Auditoria aprovada — realismo histórico, dureza do conflito e sinais de texto gerado por IA
 
-> **Status:** análise editorial, não altera o cânone por si só. O objetivo é identificar pontos excessivamente limpos, pacíficos, esquemáticos ou artificiais antes de continuar a cronologia.
+> **Status:** conclusões aprovadas pelo usuário para orientar os retcons e a revisão editorial de 1920–1979. O conteúdo abaixo não reescreve sozinho cada arquivo histórico, mas suas correções passam a ser obrigatórias antes da continuação da cronologia.
 
 ## Conclusão geral
 
@@ -143,6 +143,34 @@ Recomendação:
 - permitir dirigentes com sotaque, domínio ruim da outra língua ou preferência clara por um grupo;
 - incluir carreiristas, incompetentes, oportunistas, corruptos e pessoas politicamente ambíguas, não apenas “tecnocrata”, “legalista”, “pragmático” e “linha-dura”.
 
+## Vícios de linguagem e metanarração
+
+A cronologia explica demais a própria construção ao leitor. Em muitos trechos, o narrador deixa de registrar acontecimentos e passa a comentar por que determinada escolha de worldbuilding seria plausível, equilibrada ou coerente.
+
+Devem ser removidas ou fortemente reduzidas fórmulas como:
+
+- “isso é importante porque...”;
+- “isso cria...”;
+- “isso mostra...”;
+- “isso mantém a lógica...”;
+- “como combinamos...”;
+- “não vamos decidir isso agora...”;
+- “isso fica aberto...” dentro da narrativa;
+- “para manter o realismo...”;
+- “ou seja” e “em outras palavras” usados repetidamente;
+- “não significa X; significa Y”;
+- “não é X, é Y” como estrutura automática;
+- “menos X, mais Y”;
+- “é aqui que...” e “aqui começa...” como sinalização didática;
+- “vale lembrar...” quando não acrescenta informação histórica;
+- “por outro lado” e “ao mesmo tempo” usados como muletas de transição.
+
+Esse tipo de frase faz o documento soar como resposta conversacional de IA, não como história.
+
+A cronologia também contém explicações explícitas ao leitor como “não vamos transformar isso em guerra civil”, “isso não quer dizer que...”, “para não exagerar...” ou “o destino será decidido depois”. Essas observações devem migrar para arquivos editoriais, não permanecer misturadas ao relato histórico.
+
+Foi criada a regra permanente `regras/estilo-historico.md` para orientar essa revisão.
+
 ## Frases de narração com forte aparência de IA
 
 Há excesso de fórmulas muito polidas e simétricas, por exemplo:
@@ -165,13 +193,14 @@ Elas funcionam em conversa, mas acumuladas no documento histórico deixam a sens
 - A repressão pós-Stalin realmente pode ser mais burocrática do que o terror de 1949; o problema é a ausência quase total de exceções duras.
 - A economia soviética baseada em ferrovia, madeira, móveis, laticínios e indústria leve é mais convincente que inventar grandes complexos industriais.
 
-## Prioridade recomendada antes de 1980–1984
+## Prioridade obrigatória antes de 1980–1984
 
 1. **Refazer toda a demografia de 1954–1979.**
 2. **Reescrever os mecanismos legais e burocráticos das expansões de 1948–1957.**
 3. **Aumentar a densidade realista da violência e repressão de 1944–1953.**
 4. **Variar a repressão de 1960–1979 com alguns casos realmente severos.**
-5. **Limpar termos, slogans e nomes excessivamente genéricos.**
-6. **Adicionar sujeira social e política ao período democrático de 1920–1939 sem destruir a continuidade institucional.**
+5. **Limpar termos, slogans, nomes e vícios de linguagem excessivamente genéricos.**
+6. **Retirar metanarração e justificativas ao leitor dos arquivos históricos.**
+7. **Adicionar sujeira social e política ao período democrático de 1920–1939 sem destruir a continuidade institucional.**
 
-Só depois disso é recomendável continuar para 1980–1984, para não acumular números e instituições sobre uma base que já precisa de correção.
+A cronologia não deve avançar para 1980–1984 antes desse passe de correção.
