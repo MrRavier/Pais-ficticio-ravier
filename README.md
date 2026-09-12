@@ -20,11 +20,14 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 ### História
 - `historia/1920-1924.md` — cronologia detalhada dos cinco primeiros anos.
 - `historia/1925-1929.md` — consolidação política, primeira sucessão de governo, reforma monetária e início da crise internacional.
+- `historia/1930-1934.md` — Grande Depressão, governo Mežkalns, recuperação econômica, radicalização política e crise constitucional de 1934.
 
 ### Resumos
 - `resumos/1920-1924.md` — resumo do primeiro período.
 - `resumos/1925-1929.md` — resumo do segundo período.
+- `resumos/1930-1934.md` — resumo do terceiro período.
 
 ### Personagens
 - `personagens/1920-1924.md` — primeira geração política e administrativa.
 - `personagens/1925-1929.md` — continuidade da geração fundadora e novas figuras econômicas, educacionais e políticas.
+- `personagens/1930-1934.md` — evolução da geração fundadora, novas figuras culturais e surgimento da direita autoritária organizada.
