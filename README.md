@@ -17,6 +17,8 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 11. **O destino pós-soviético permanece deliberadamente em aberto.** Até decisão expressa do usuário, não são cânone: restauração ou não da independência, fronteiras pós-URSS, nome moderno do país, regime posterior, adesão à União Europeia, OTAN ou outra aliança/organização, nem qualquer solução definitiva para o período posterior ao domínio soviético.
 12. A configuração territorial soviética madura aprovada corresponde integralmente, em equivalência moderna, a **Valga County + Võru County + Valkas novads + Alūksnes novads**. Põlva, Smiltene, Valmiera, Gulbene, Cēsis e demais unidades não aprovadas permanecem fora.
 13. Nos mapas do usuário, salvo indicação contrária, **cada polígono colorido representa uma unidade administrativa inteira**.
+14. Os documentos históricos devem seguir `regras/estilo-historico.md`: **sem metanarração, sem explicar ao leitor decisões de worldbuilding, sem slogans autorais repetitivos e sem vícios de linguagem típicos de resposta de IA**. Justificativas editoriais ficam em `auditorias/` e `decisoes/`, não misturadas à cronologia.
+15. A auditoria `auditorias/auditoria-realismo-e-estilo-ia.md` foi aprovada e suas correções são obrigatórias antes de avançar para 1980–1984.
 
 ## Estrutura atual
 
@@ -64,3 +66,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 
 ### Decisões territoriais
 - `decisoes/territorio-extra-opcoes.md` — decisão canônica que fixa Võru e aprova Alūksne, definindo a forma territorial soviética madura.
+
+### Regras e auditorias
+- `regras/estilo-historico.md` — padrão obrigatório de prosa histórica e lista de vícios a evitar.
+- `auditorias/auditoria-realismo-e-estilo-ia.md` — auditoria aprovada de plausibilidade, dureza histórica, demografia, nomenclatura e estilo.
