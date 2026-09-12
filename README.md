@@ -32,6 +32,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `historia/1960-1964.md` — integração da RSS madura, urbanização, reformas de Khrushchev, política linguística, cultura võro e consolidação da vigilância burocrática.
 - `historia/1965-1969.md` — consolidação da era Brezhnev, reforma econômica, integração por transportes e mídia, Primavera de Praga e sucessão Vahtramäe–Vaher.
 - `historia/1970-1974.md` — urbanização brejneviana, bens de consumo, Cadernos da Fronteira, vigilância burocrática e memória histórica privada.
+- `historia/1975-1979.md` — impacto de Helsinque, estagnação econômica, nova constituição republicana, sucessão Pärn–Kaur e início dos efeitos da guerra do Afeganistão.
 
 ### Resumos
 - `resumos/1920-1924.md` — resumo do primeiro período.
@@ -45,6 +46,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `resumos/1960-1964.md` — resumo da integração territorial, reformas administrativas, política cultural e transição no KGB/censura.
 - `resumos/1965-1969.md` — resumo da consolidação brejneviana, tecnocratização, Primavera de Praga e nova liderança partidária.
 - `resumos/1970-1974.md` — resumo da urbanização, economia de consumo, memória histórica e oposição intelectual dispersa.
+- `resumos/1975-1979.md` — resumo de Helsinque, constituição de 1978, estagnação e primeiros impactos do Afeganistão.
 
 ### Personagens
 - `personagens/1920-1924.md` — primeira geração política e administrativa.
@@ -58,6 +60,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `personagens/1960-1964.md` — elite pós-stalinista, tecnocratas, educação, cultura regional, memória histórica e burocratização do controle político.
 - `personagens/1965-1969.md` — consolidação brejneviana, sucessão partidária, tecnocratas, KGB, censura e nova geração cultural.
 - `personagens/1970-1974.md` — estabilidade brejneviana, tecnocracia industrial, censura, memória histórica e Cadernos da Fronteira.
+- `personagens/1975-1979.md` — sucessão no governo, nova chefia do KGB, dissidência cultural legalista e tecnocracia da estagnação.
 
 ### Decisões territoriais
 - `decisoes/territorio-extra-opcoes.md` — decisão canônica que fixa Võru e aprova Alūksne, definindo a forma territorial soviética madura.
