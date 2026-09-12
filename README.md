@@ -13,8 +13,18 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 7. O Estado nasce em 1920 apenas com **Valga e Valka unificadas**; Võru não pertence ao país no início.
 8. Mudanças territoriais posteriores, inclusive as futuras incorporações de Valgamaa e Võrumaa no período soviético, devem ser justificadas dentro da cronologia e não retroativamente tratadas como parte do Estado fundador.
 9. Retcons aprovados pelo usuário substituem versões anteriores do cânone e devem ser atualizados nos documentos pertinentes.
+10. Figuras fictícias importantes devem ser nomeadas à medida que entram na história, com origem linguística, função e posição política coerentes com a escala do país.
 
 ## Estrutura atual
 
+### História
 - `historia/1920-1924.md` — cronologia detalhada dos cinco primeiros anos.
-- `resumos/1920-1924.md` — resumo do mesmo período.
+- `historia/1925-1929.md` — consolidação política, primeira sucessão de governo, reforma monetária e início da crise internacional.
+
+### Resumos
+- `resumos/1920-1924.md` — resumo do primeiro período.
+- `resumos/1925-1929.md` — resumo do segundo período.
+
+### Personagens
+- `personagens/1920-1924.md` — primeira geração política e administrativa.
+- `personagens/1925-1929.md` — continuidade da geração fundadora e novas figuras econômicas, educacionais e políticas.
