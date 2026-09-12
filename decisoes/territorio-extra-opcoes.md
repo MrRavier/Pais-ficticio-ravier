@@ -1,68 +1,63 @@
-# Opções para um território adicional — nota de decisão
+# Decisão territorial — fronteiras soviéticas maduras
 
-> **Status:** proposta, não cânone para território adicional. **Correção canônica de leitura do mapa:** cada polígono colorido representa uma unidade administrativa moderna inteira.
+> **Status:** cânone aprovado pelo usuário.
 
-## Correção da leitura do mapa
+## Regra de leitura dos mapas
 
-A projeção territorial vermelha mostrada pelo usuário deve ser lida literalmente por unidades administrativas completas. O vermelho cobre:
+Cada polígono colorido mostrado nos mapas do usuário representa uma **unidade administrativa moderna inteira**. As linhas internas do MapChart delimitam essas unidades e devem ser respeitadas literalmente, salvo instrução expressa em contrário.
 
-- **todo o atual Condado de Valga (Valga EE)**;
-- **todo o atual Condado de Võru (Võru EE)**;
-- **todo o atual Valkas novads (Valkas novads LV)**.
+## Projeção vermelha original
 
-As linhas internas de divisa do MapChart permanecem visíveis e delimitam cada unidade. Portanto, não se deve interpretar a área vermelha do lado letão como apenas a cidade histórica de Valka.
+A projeção vermelha confirmada pelo usuário compreende integralmente:
 
-As unidades vizinhas **Põlva EE, Valmieras novads LV, Smiltenes novads LV, Alūksnes novads LV** e demais áreas roxas/verdes permanecem fora da projeção vermelha.
+- **Valga County (EE)**;
+- **Võru County (EE)**;
+- **Valkas novads (LV)**.
 
-## Relação com o cânone cronológico atual
+Põlva, Valmieras novads, Smiltenes novads e Alūksnes novads apareciam originalmente fora do vermelho.
 
-Ao fim de 1954, o cânone já incorporou aproximadamente os atuais Condados de Valga e Võru, mantendo Põlva fora. No lado letão, porém, a cronologia havia falado apenas no núcleo histórico de Valka. Assim, **a cronologia ainda não alcançou exatamente a projeção vermelha completa**: falta definir quando e por qual reforma soviética o restante do moderno Valkas novads entra na RSS.
+## Decisão sobre Võru
 
-Essa correção não fixa ainda a data da incorporação do restante de Valkas novads; isso deve ser decidido na continuação cronológica ou por retcon específico.
+**Võru permanece no país.** Não será retconada.
 
-## Recomendação sobre Võru
+Razões de continuidade:
 
-**Não retconar Võru por enquanto.**
+1. dá à RSS uma fronteira direta com a RSFSR/Rússia;
+2. evita que o território fique comprimido apenas entre Estônia e Letônia;
+3. fornece uma segunda cidade e um componente cultural võro importante;
+4. sua transferência é explicada por reforma administrativa soviética, não por uma reivindicação histórica do Estado de 1920.
 
-Razões:
+Põlva permanece fora para limitar o efeito-borboleta sobre a Estônia.
 
-1. Võru dá à RSS uma fronteira direta com a RSFSR/Rússia, evitando que o país fique geograficamente comprimido apenas entre Estônia e Letônia.
-2. Durante o período soviético essa fronteira é apenas uma fronteira interna da URSS, portanto sua existência não força automaticamente uma grande divergência geopolítica antes do colapso soviético.
-3. A URSS alterou de fato fronteiras internas da RSS da Estônia no pós-guerra; uma transferência de Võru em uma reforma administrativa continua plausível dentro da lógica da linha alternativa.
-4. Võru fornece uma segunda cidade, uma identidade regional võro própria e uma razão interna forte para Valga–Valka deixar de ser apenas uma cidade-Estado ampliada.
+## Decisão sobre Alūksne
 
-Reconhece-se, porém, que retirar todo o atual Condado de Võru da Estônia é uma das maiores divergências territoriais do cenário e altera de modo importante a geografia cultural estoniana. Por isso, recomenda-se não acrescentar Põlva também, salvo decisão posterior expressa.
+O usuário aceitou a recomendação de incorporar **todo o atual Alūksnes novads** como quarto bloco territorial moderno.
 
-## Se for acrescentado apenas mais um território moderno além do vermelho
+A incorporação ocorre no cânone em **1957**, por transferência administrativa da RSS da Letônia para a RSS de Valga–Valka. No contexto da década de 1950, a fronteira é implementada por raions, selsoviets e ajustes soviéticos; a referência a "Alūksnes novads" serve para definir com precisão o contorno moderno equivalente pretendido.
 
-Como a projeção vermelha **já inclui todo o Valkas novads**, a melhor opção adicional passa a ser **Alūksnes novads**.
+Justificativas internas:
 
-### Alūksnes novads — melhor quarto território
+- continuidade territorial com Võru e Valka;
+- ligação ferroviária e econômica Valka–Alūksne;
+- forte conexão histórica de Alūksne/Marienburg com o antigo Kreis Walk;
+- exploração de madeira, agricultura e planejamento regional;
+- fronteira direta adicional com a RSFSR.
 
-Vantagens:
+## Configuração territorial soviética madura
 
-- faz fronteira com o atual Condado de Võru e com a Rússia/Pskov;
-- possui forte ligação histórica com o antigo **Kreis Walk**: Alūksne/Marienburg integrava esse distrito imperial;
-- a ferrovia histórica Valka–Alūksne reforça a coerência econômica;
-- é uma região periférica e de população relativamente pequena dentro da Letônia contemporânea, produzindo menos efeito-borboleta nacional do que retirar Valmiera, Cēsis ou grandes áreas centrais;
-- estende a fronteira russa sem exigir Põlva ou outros territórios estonianos.
+A partir de 1957, salvo pequenos ajustes técnicos ou retcon futuro expresso, a RSS compreende integralmente, em equivalência moderna:
 
-Desvantagem: aumenta a perda territorial da Letônia e exigiria nova análise linguística, demográfica e administrativa.
+**Valga County + Võru County + Valkas novads + Alūksnes novads.**
 
-## Opções menos recomendadas
+Ficam explicitamente fora:
 
-- **Smiltenes novads:** forte conexão com Kreis Walk, mas o município moderno é grande e reúne áreas históricas distintas; efeito-borboleta maior.
-- **Valmieras novads:** cidade/região mais importante para a história econômica e cultural da Letônia; não recomendado se a meta é mínima divergência.
-- **Cēsu novads:** relevante historicamente e pertencente a outro centro regional; evitar.
-- **Gulbenes novads:** possui conexão histórica com Kreis Walk, mas não cria uma fronteira tão limpa com o território atual sem outras anexações.
-- **Põlva:** manter fora reduz o impacto territorial sobre a Estônia e preserva uma fronteira clara com a Estônia soviética.
+- Põlva;
+- Smiltenes novads;
+- Valmieras novads;
+- Gulbenes novads;
+- Cēsu novads;
+- demais unidades vizinhas não aprovadas.
 
-## Conclusão de trabalho
+## Regra pós-soviética
 
-A **projeção vermelha confirmada** é:
-
-**Valga County inteiro + Võru County inteiro + Valkas novads inteiro.**
-
-Se a prioridade absoluta for o menor efeito-borboleta possível, a expansão deve parar aí.
-
-Se for desejado exatamente mais um território além do vermelho, **Alūksnes novads** continua sendo a opção preferida, mas permanece não canônica até aprovação expressa do usuário.
+Esta decisão fixa apenas o território da **RSS soviética madura**. O destino dessas fronteiras depois do período soviético — independência ou não, reconhecimento internacional, disputas territoriais, nome do Estado, adesão a organizações e regime posterior — permanece deliberadamente em aberto até decisão expressa do usuário.
