@@ -17,56 +17,75 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 11. **O destino pós-soviético permanece deliberadamente em aberto.** Até decisão expressa do usuário, não são cânone: restauração ou não da independência, fronteiras pós-URSS, nome moderno do país, regime posterior, adesão à União Europeia, OTAN ou outra aliança/organização, nem qualquer solução definitiva para o período posterior ao domínio soviético.
 12. A configuração territorial soviética madura aprovada corresponde integralmente, em equivalência moderna, a **Valga County + Võru County + Valkas novads + Alūksnes novads**. Põlva, Smiltene, Valmiera, Gulbene, Cēsis e demais unidades não aprovadas permanecem fora.
 13. Nos mapas do usuário, salvo indicação contrária, **cada polígono colorido representa uma unidade administrativa inteira**.
-14. Os documentos históricos devem seguir `regras/estilo-historico.md`: **sem metanarração, sem explicar ao leitor decisões de worldbuilding, sem slogans autorais repetitivos e sem vícios de linguagem típicos de resposta de IA**. Justificativas editoriais ficam em `auditorias/` e `decisoes/`, não misturadas à cronologia.
-15. A auditoria `auditorias/auditoria-realismo-e-estilo-ia.md` foi aprovada e suas correções são obrigatórias antes de avançar para 1980–1984.
+14. Os documentos históricos devem seguir `regras/estilo-historico.md`: **sem metanarração, sem explicar ao leitor decisões de worldbuilding, sem slogans autorais repetitivos e sem vícios de linguagem típicos de resposta de IA**. Justificativas editoriais ficam em `auditorias/`, `decisoes/` e `retcons/`, não misturadas à cronologia.
+15. A auditoria `auditorias/auditoria-realismo-e-estilo-ia.md` foi implementada na revisão geral de 1920–1979 e continua valendo para todos os blocos futuros.
+16. `retcons/retcon-geral-1920-1979.md` é a referência consolidada da **segunda edição do cânone**. Números demográficos, nomes de personagens e instituições anteriores que conflitem com esse documento estão substituídos pelas versões revisadas.
 
 ## Estrutura atual
 
-### História
-- `historia/1920-1924.md` — cronologia detalhada dos cinco primeiros anos.
-- `historia/1925-1929.md` — consolidação política, primeira sucessão de governo, reforma monetária e início da crise internacional.
-- `historia/1930-1934.md` — Grande Depressão, governo Mežkalns, recuperação econômica, radicalização política e crise constitucional de 1934.
-- `historia/1935-1939.md` — normalização pós-1934, Guarda Nacional, reforma constitucional, governo Graudiņš e pressão soviética de 1939.
-- `historia/1940-1944.md` — ocupação e anexação soviética, criação da RSS, deportação de 1941, ocupação alemã, divisão administrativa sob o Ostland e retorno soviético em 1944.
-- `historia/1945-1949.md` — reconstrução stalinista, MGB, censura, primeira expansão territorial, Operação Priboi e coletivização.
-- `historia/1950-1954.md` — reforma dos raions, consolidação de Valgamaa, incorporação de Antsla e Võru, morte de Stalin e criação do KGB republicano.
-- `historia/1955-1959.md` — incorporação integral de Valkas novads e Alūksnes novads, desestalinização limitada, transição Kivilo–Vahtramäe e primeiro censo da RSS madura.
-- `historia/1960-1964.md` — integração da RSS madura, urbanização, reformas de Khrushchev, política linguística, cultura võro e consolidação da vigilância burocrática.
-- `historia/1965-1969.md` — consolidação da era Brezhnev, reforma econômica, integração por transportes e mídia, Primavera de Praga e sucessão Vahtramäe–Vaher.
-- `historia/1970-1974.md` — urbanização brejneviana, bens de consumo, Cadernos da Fronteira, vigilância burocrática e memória histórica privada.
-- `historia/1975-1979.md` — impacto de Helsinque, estagnação econômica, nova constituição republicana, sucessão Pärn–Kaur e início dos efeitos da guerra do Afeganistão.
+### História — segunda edição revisada
+- `historia/1920-1924.md` — fundação contestada, crise de reconhecimento, contrabando, primeira Constituição e abusos policiais.
+- `historia/1925-1929.md` — greves ferroviárias, patronagem, sucessão Veldrik–Ziedkalns, política monetária e chegada da crise internacional.
+- `historia/1930-1934.md` — Grande Depressão, falências, governo Mežkalns, Uuendusliit e crise armada de 1934.
+- `historia/1935-1939.md` — estabilização coerciva, Guarda Nacional, reforma constitucional, antissemitismo, governo Graudiņš e pressão soviética.
+- `historia/1940-1944.md` — ocupação soviética, criação da 17ª RSS, deportação de 1941, ocupação alemã, Holocausto, colaboração e retorno soviético.
+- `historia/1945-1949.md` — reconstrução stalinista, MGB, Glavlit, resistência rural, primeira expansão, Operação Priboi e coletivização.
+- `historia/1950-1954.md` — reforma dos raions, grandes transferências do sul estoniano, guerrilha rural tardia, morte de Stalin e criação do KGB.
+- `historia/1955-1959.md` — reorganização do lado letão, debate sobre o status da RSS, Alūksne, sovnarkhoz e censo corrigido de 1959.
+- `historia/1960-1964.md` — integração administrativa, desestalinização limitada, política linguística, cultura võro e controle de arquivos/publicações.
+- `historia/1965-1969.md` — reformas econômicas, mídia republicana, Primavera de Praga, prisão de Aksel Parts e sucessão Kask–Vītols.
+- `historia/1970-1974.md` — estagnação inicial, mercado informal, folhas datilografadas clandestinas, buscas do KGB e ascensão de Jānis Kalējs.
+- `historia/1975-1979.md` — Helsinque, carta dos sete, repressão seletiva, Constituição de 1978, censo corrigido e início do Afeganistão.
 
 ### Resumos
-- `resumos/1920-1924.md` — resumo do primeiro período.
-- `resumos/1925-1929.md` — resumo do segundo período.
-- `resumos/1930-1934.md` — resumo do terceiro período.
-- `resumos/1935-1939.md` — resumo do quarto período.
-- `resumos/1940-1944.md` — resumo do período de ocupações, guerra e restauração da RSS.
-- `resumos/1945-1949.md` — resumo da reconstrução, primeira expansão soviética e coletivização.
-- `resumos/1950-1954.md` — resumo da grande expansão territorial e da transição pós-Stalin.
-- `resumos/1955-1959.md` — resumo do fechamento das fronteiras soviéticas maduras e da mudança geracional da liderança.
-- `resumos/1960-1964.md` — resumo da integração territorial, reformas administrativas, política cultural e transição no KGB/censura.
-- `resumos/1965-1969.md` — resumo da consolidação brejneviana, tecnocratização, Primavera de Praga e nova liderança partidária.
-- `resumos/1970-1974.md` — resumo da urbanização, economia de consumo, memória histórica e oposição intelectual dispersa.
-- `resumos/1975-1979.md` — resumo de Helsinque, constituição de 1978, estagnação e primeiros impactos do Afeganistão.
+- `resumos/1920-1924.md`
+- `resumos/1925-1929.md`
+- `resumos/1930-1934.md`
+- `resumos/1935-1939.md`
+- `resumos/1940-1944.md`
+- `resumos/1945-1949.md`
+- `resumos/1950-1954.md`
+- `resumos/1955-1959.md`
+- `resumos/1960-1964.md`
+- `resumos/1965-1969.md`
+- `resumos/1970-1974.md`
+- `resumos/1975-1979.md`
 
 ### Personagens
-- `personagens/1920-1924.md` — primeira geração política e administrativa.
-- `personagens/1925-1929.md` — continuidade da geração fundadora e novas figuras econômicas, educacionais e políticas.
-- `personagens/1930-1934.md` — evolução da geração fundadora, novas figuras culturais e surgimento da direita autoritária organizada.
-- `personagens/1935-1939.md` — transição geracional, reforma constitucional, criação da Guarda Nacional e crise de 1939.
-- `personagens/1940-1944.md` — liderança soviética local, destinos da velha elite, colaboração, continuidade legalista e ocupação alemã.
-- `personagens/1945-1949.md` — consolidação soviética, segurança, censura, expansão territorial, coletivização e resistência rural.
-- `personagens/1950-1954.md` — integração territorial, transição pós-Stalin, reorganização da segurança e novas lideranças.
-- `personagens/1955-1959.md` — liderança pós-Stalin, tecnocratas, segurança, censura e continuidade da velha república.
-- `personagens/1960-1964.md` — elite pós-stalinista, tecnocratas, educação, cultura regional, memória histórica e burocratização do controle político.
-- `personagens/1965-1969.md` — consolidação brejneviana, sucessão partidária, tecnocratas, KGB, censura e nova geração cultural.
-- `personagens/1970-1974.md` — estabilidade brejneviana, tecnocracia industrial, censura, memória histórica e Cadernos da Fronteira.
-- `personagens/1975-1979.md` — sucessão no governo, nova chefia do KGB, dissidência cultural legalista e tecnocracia da estagnação.
+- `personagens/1920-1924.md`
+- `personagens/1925-1929.md`
+- `personagens/1930-1934.md`
+- `personagens/1935-1939.md`
+- `personagens/1940-1944.md`
+- `personagens/1945-1949.md`
+- `personagens/1950-1954.md`
+- `personagens/1955-1959.md`
+- `personagens/1960-1964.md`
+- `personagens/1965-1969.md`
+- `personagens/1970-1974.md`
+- `personagens/1975-1979.md`
 
 ### Decisões territoriais
-- `decisoes/territorio-extra-opcoes.md` — decisão canônica que fixa Võru e aprova Alūksne, definindo a forma territorial soviética madura.
+- `decisoes/territorio-extra-opcoes.md` — decisão canônica sobre Võru, Valkas e Alūksne e equivalência da fronteira soviética madura.
 
-### Regras e auditorias
+### Regras, auditorias e retcons
 - `regras/estilo-historico.md` — padrão obrigatório de prosa histórica e lista de vícios a evitar.
-- `auditorias/auditoria-realismo-e-estilo-ia.md` — auditoria aprovada de plausibilidade, dureza histórica, demografia, nomenclatura e estilo.
+- `auditorias/auditoria-realismo-e-estilo-ia.md` — auditoria de plausibilidade, violência/repressão, demografia, nomenclatura e estilo; implementada na segunda edição.
+- `retcons/retcon-geral-1920-1979.md` — consolidação das correções gerais aprovadas.
+
+## Série demográfica de trabalho da segunda edição
+
+- 1922: ~12,8 mil
+- 1939: ~14,1 mil
+- fim de 1944: ~10,8–11,2 mil presentes
+- 1948: ~29–31 mil
+- 1950: ~43–46 mil
+- 1952: ~52–55 mil
+- 1954: ~90–94 mil
+- 1955: ~97–101 mil
+- 1957: ~109–113 mil
+- 1959: ~114 mil
+- 1964: ~117 mil
+- 1969: ~121 mil
+- 1974: ~124 mil
+- 1979: ~126 mil
