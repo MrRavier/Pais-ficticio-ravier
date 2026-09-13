@@ -8,10 +8,13 @@ Este diretório contém o projeto do país fictício **Sintica** e permanece sep
 
 - **Nome curto:** Sintica.
 - **Nome oficial moderno:** Principado de Sintica.
-- **Forma de Estado:** monarquia constitucional parlamentar hereditária.
+- **Forma de Estado:** principado soberano hereditário de **monarquia semi-constitucional, com governo parlamentar**.
 - **Dinastia:** Casa de Orbelos.
+- **Primeiro soberano moderno:** **Teodor I Orbelos**, reconhecido em 1919 e em exercício soberano pleno a partir de 9 de agosto de 1920.
 - **Território-base moderno:** área equivalente ao atual Município de Novo Selo, Macedônia do Norte, considerado integralmente como território de Sintica na continuidade fictícia.
 - O país não é uma continuação fictícia da atual municipalidade: apenas utiliza a mesma área física.
+
+A monarquia sinticana não é puramente cerimonial. O governo cotidiano é parlamentar, mas a Coroa conserva poderes constitucionais próprios. Em 1920 esses poderes são mais amplos e tradicionais do que no período moderno.
 
 ## Fundação e independência moderna
 
@@ -40,15 +43,33 @@ O acordo internacional torna-se plausível pela combinação de:
 - interesse internacional em impedir que o pequeno setor se torne mais um foco permanente de disputa fronteiriça;
 - compromisso constitucional de Sintica com proteção das comunidades históricas, de seus idiomas e de sua toponímia.
 
-A forma exata do protocolo internacional, as potências que patrocinam mais ativamente a solução e o primeiro governo ainda serão detalhados em cronologia posterior.
+A forma exata do protocolo internacional e as potências que patrocinam mais ativamente a solução ainda serão detalhadas em cronologia posterior.
 
 ## Casa de Orbelos
 
 A Casa de Orbelos é anterior ao Estado moderno. Sua existência aristocrática e influência regional precedem a independência de 1919–1920.
 
-Isso não significa que a família já governasse um Estado soberano antes de 1919. O título, os direitos fundiários, os privilégios e a posição jurídica exata dos Orbelos sob as administrações otomana e búlgara permanecem abertos para desenvolvimento histórico posterior.
+O chefe da Casa na fundação do Estado é **Teodor Orbelos**, nascido em **1871** no território que posteriormente formaria Sintica. Cristão ortodoxo, educado como membro de uma elite balcânica internacionalizada e com estudos superiores de direito e administração em Viena, Teodor já era um chefe dinástico maduro quando se tornou a solução monárquica de compromisso em 1919.
+
+A partir da independência efetiva, ele reina como **Teodor I, Príncipe Soberano de Sintica**.
+
+Teodor não é um conquistador militar nem o líder de uma revolta nacional de massas. Sua força política está na antiguidade da Casa, no patrimônio, nas redes matrimoniais e na capacidade de negociar entre comunidades e administrações sucessivas. Sua candidatura de 1919 permite que o novo Estado possua uma dinastia regional própria em vez de importar um príncipe estrangeiro.
+
+Isso não significa que a família já governasse um Estado soberano antes de 1919. O título, os direitos fundiários, os privilégios e a posição jurídica exata dos Orbelos sob as administrações otomana e búlgara serão desenvolvidos com cuidado histórico posterior.
 
 A família desenvolveu ao longo de muitas gerações conexões matrimoniais, políticas e patrimoniais com diferentes comunidades que participaram da formação do país, incluindo elementos gregos, búlgaros, aromanos/romenos, otomanos/turcos, húngaros e austríacos/germanófonos. Essas conexões devem surgir organicamente da cronologia, e não como uma lista artificial de origens.
+
+O documento detalhado sobre Teodor I e a ordem constitucional inicial é `casa-de-orbelos-e-constituicao-1920.md`.
+
+## Ordem constitucional
+
+Sintica nasce em 1920 como uma **monarquia hereditária semi-constitucional**.
+
+A ordem inicial combina representação popular com uma Coroa politicamente ativa. O Príncipe nomeia e demite ministros, sanciona leis, pode dissolver a Assembleia mediante novas eleições, representa o Estado externamente e exerce o comando supremo das forças armadas. Impostos, orçamento e legislação geral dependem da Assembleia.
+
+Os ministros respondem pelos atos de governo e o sistema conhece contrassinado ministerial, mas o parlamentarismo de 1920 ainda não transforma o Príncipe em figura cerimonial nem torna toda queda de gabinete automaticamente dependente de voto parlamentar.
+
+Ao longo do século XX, reformas fortalecem a responsabilidade parlamentar do governo e limitam algumas prerrogativas, mas Sintica conserva no período moderno uma **Coroa com poderes constitucionais próprios**. O desenho atual detalhado será fixado em etapa posterior.
 
 ## Regra permanente de nomenclatura histórica
 
@@ -87,9 +108,9 @@ Quando houver diferença de nível de detalhe, os dois arquivos não devem se co
 
 ## Próximos elementos a desenvolver
 
-- primeiro príncipe soberano e genealogia imediata de 1919–1920;
+- pais, consorte e descendência imediata de Teodor I;
 - patrocinadores diplomáticos da solução sinticana em Paris/Neuilly;
-- primeira constituição;
+- texto artigo por artigo da primeira constituição;
 - fronteira e demarcação de 1920;
 - população e identidade linguística;
 - assentamentos e formas oficiais multilíngues;
