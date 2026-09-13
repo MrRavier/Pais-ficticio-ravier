@@ -14,7 +14,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 8. Mudanças territoriais posteriores devem ser justificadas dentro da cronologia e não retroativamente tratadas como parte do Estado fundador.
 9. Retcons aprovados pelo usuário substituem versões anteriores do cânone e devem ser atualizados nos documentos pertinentes.
 10. Figuras fictícias importantes devem ser nomeadas à medida que entram na história, com origem linguística, função e posição política coerentes com a escala do país.
-11. A cronologia está fixada até **31 de dezembro de 2009**. O golpe de Aleksandr Reimers, em 24 de março de 2004, foi institucionalizado pela Constituição de 2005. Reimers vence a eleição presidencial de 2006 sob competição limitada, conserva o Conselho de Defesa como núcleo do regime, mantém integralmente as fronteiras herdadas da RSS, aproxima o país da Federação Russa e permanece fora da União Europeia e da OTAN. Em 2008, o governo reconhece Abkházia e Ossétia do Sul e assina tratado de amizade e cooperação com Moscou. Em 2009, a recessão aprofunda a dependência de crédito russo.
+11. A cronologia está fixada até **31 de dezembro de 2014**. Aleksandr Reimers permanece presidente após ser reeleito em 2012, Viktors Belovs continua primeiro-ministro e a Ordem Republicana mantém maioria na Assembleia. O regime preserva integralmente as fronteiras herdadas da RSS, mantém neutralidade militar formal e forte relação econômica com a Federação Russa. Em 2014, o governo reconhece a Crimeia como parte da Rússia, recebe novas sanções europeias e sofre nova deterioração das relações com Estônia e Letônia.
 12. A configuração territorial soviética madura e a fronteira de facto mantida após 1991 correspondem integralmente, em equivalência moderna, a **Valga County + Võru County + Valkas novads + Alūksnes novads**. Põlva, Smiltene, Valmiera, Gulbene, Cēsis e demais unidades não aprovadas permanecem fora.
 13. Nos mapas do usuário, salvo indicação contrária, **cada polígono colorido representa uma unidade administrativa inteira**.
 14. Os documentos históricos devem seguir `regras/estilo-historico.md`: **sem metanarração, sem explicar ao leitor decisões de worldbuilding, sem slogans autorais repetitivos, sem prosa autocorretiva e sem vícios de linguagem típicos de resposta de IA**. Justificativas editoriais ficam em `auditorias/`, `decisoes/` e `retcons/`, não misturadas à cronologia.
@@ -42,6 +42,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `historia/1995-1999.md` — Constituição permanente, moeda própria, continuidade de Saar, acordos fronteiriços provisórios, crise russa de 1998, reforma bancária e pedido de adesão à União Europeia.
 - `historia/2000-2004.md` — segundo mandato de Saar, negociações europeias, exclusão do alargamento da OTAN, crise territorial e golpe militar de Aleksandr Reimers em 24 de março de 2004.
 - `historia/2005-2009.md` — institucionalização do regime Reimers, Constituição de 2005, eleição presidencial de 2006, saída do Conselho da Europa, crise com a Estônia em 2007, reconhecimento de Abkházia e Ossétia do Sul, tratado com Moscou e recessão de 2009.
+- `historia/2010-2014.md` — recuperação pós-crise, eleição legislativa de 2011, censo, reeleição de Reimers em 2012, acordos econômicos com Moscou sem adesão aduaneira plena e reconhecimento da Crimeia como parte da Rússia em 2014.
 
 ### Resumos
 - `resumos/1920-1924.md`
@@ -62,6 +63,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `resumos/1995-1999.md`
 - `resumos/2000-2004.md`
 - `resumos/2005-2009.md`
+- `resumos/2010-2014.md`
 
 ### Personagens
 - `personagens/1920-1924.md`
@@ -82,6 +84,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `personagens/1995-1999.md`
 - `personagens/2000-2004.md`
 - `personagens/2005-2009.md`
+- `personagens/2010-2014.md`
 
 ### Decisões territoriais e de transição
 - `decisoes/territorio-extra-opcoes.md` — decisão canônica sobre Võru, Valkas e Alūksne e equivalência da fronteira soviética madura.
@@ -120,3 +123,5 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - 2003: ~114–115 mil
 - 2004: ~113–114 mil
 - 2009: ~109–111 mil
+- 2011: pouco mais de 108 mil
+- 2014: ~104–106 mil
