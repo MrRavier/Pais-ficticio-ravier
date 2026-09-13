@@ -75,7 +75,13 @@ Trata-se de uma **academia norte-americana moderna, situada no Canadá, especial
 
 A motivação básica de Nikola é pragmática: retirar temporariamente o sobrinho do ambiente doméstico, estatal e cortesão de Sintica e colocá-lo num lugar estruturado para conviver e treinar com outras pessoas extraordinárias sem que tudo ao redor seja filtrado pela condição de Príncipe Soberano.
 
-O nome, a cidade canadense, a administração, o currículo e o momento exato dessa matrícula permanecem abertos para desenvolvimento específico da academia.
+### Vínculo com Thomas
+
+No presente narrativo de **2014**, **Thomas tem 18 anos e já estuda nessa mesma academia**. Ele já faz parte da vida cotidiana da instituição antes de Nikola enviar o sobrinho para lá.
+
+Portanto, a futura matrícula do Príncipe cria o ponto de encontro entre a linha narrativa de Sintica e a história de Thomas. O fato de Thomas estudar ali não é, por enquanto, estabelecido como motivo da escolha de Nikola; trata-se simplesmente da mesma academia.
+
+O nome, a cidade canadense, a administração, o currículo, o momento exato da matrícula do Príncipe e as circunstâncias do primeiro encontro com Thomas permanecem abertos.
 
 ## Continuidade
 
@@ -90,4 +96,5 @@ Continuam abertos:
 - nome técnico oficial de sua Habilidade;
 - limites quantitativos do disparo;
 - data e causa constitucional da futura Regência;
-- nome e localização exata da academia canadense.
+- nome e localização exata da academia canadense;
+- momento exato do encontro entre Thomas e o Príncipe.
