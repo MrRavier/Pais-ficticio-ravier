@@ -115,8 +115,25 @@ A neutralidade é política permanente do Estado desde o entreguerras e é reafi
 - Em **1975**, na continuidade fictícia, torna-se o **36º signatário** do Ato Final de Helsinki.
 - Em **1978**, ingressa no **Conselho da Europa**, preservando neutralidade militar e reforçando Estado de direito e direitos fundamentais.
 - Em **1990**, ingressa nas **Nações Unidas**, seguindo o movimento histórico de maior integração multilateral de pequenos Estados europeus no fim da Guerra Fria.
+- Em **1992**, reconhece a República da Macedônia sem reivindicações territoriais.
+- Entre **2003 e 2014**, segue uma política de **integração europeia setorial sem candidatura formal à União Europeia**.
+- A entrada da Bulgária na UE em **2007** deixa Sintica com dois vizinhos membros da União Europeia: Grécia e Bulgária.
 
-A dissolução da Iugoslávia muda profundamente o entorno regional. Em **1992**, depois do reconhecimento inicial pela Bulgária, Sintica reconhece a República da Macedônia e estabelece relações bilaterais sem reivindicações territoriais.
+Sintica permanece fora da OTAN e da União Europeia em 2014.
+
+## 2001–2014 — transição contemporânea
+
+O conflito macedônio de **2001** coloca Sintica em alerta, mas não produz combates em território sinticano. O principado recebe deslocados em escala limitada e reforça doutrina de separar refugiados civis de combatentes armados.
+
+Em **6 de abril de 2002**, Teodor II morre e Aleksandar II sobe ao trono. Seu filho de seis anos torna-se Príncipe Herdeiro.
+
+No final de **2007**, Aleksandar II é diagnosticado com câncer pancreático. Ele morre em **18 de setembro de 2008**, e o filho de 12 anos torna-se imediatamente Príncipe Soberano.
+
+**Katalin Teleki exerce a Regência de 18 de setembro de 2008 a 4 de janeiro de 2014.** A Constituição, o Parlamento e o governo continuam funcionando normalmente; a Regente exerce prerrogativas em nome do filho e não se torna soberana em direito próprio.
+
+Em **4 de janeiro de 2014**, o soberano completa 18 anos. A Regência termina automaticamente e ele passa ao exercício pessoal pleno das prerrogativas da Coroa. O reinado, contudo, é contado desde 2008.
+
+O desenvolvimento completo está em `cronologia-2001-2014.md`.
 
 ## Corte, Grand Hotel e identidade visual
 
@@ -128,7 +145,9 @@ A estética pública combina neo-barroco, ecletismo centro-europeu e balcânico,
 
 Uma campanha de restauração iniciada no fim dos anos 1980 recupera elementos históricos sem apagar completamente as intervenções posteriores. Ao final dos anos 1990 o Grand Hotel volta a ser um dos principais símbolos turísticos do país.
 
-O desenvolvimento detalhado está em `corte-vida-social-e-monarquia-moderna.md`.
+Em **4 de janeiro de 2014**, a maioridade constitucional do jovem soberano é celebrada por sessão solene, cerimônias de Estado e uma **Gala da Maioridade** no Grand Hotel, sem constituir nova ascensão ao trono.
+
+O desenvolvimento detalhado da cultura de corte está em `corte-vida-social-e-monarquia-moderna.md`.
 
 ## Habilidades e tradição heroica
 
@@ -144,13 +163,15 @@ Marcos principais:
 - 1969: Código de Responsabilidade Extraordinária;
 - 1976–77: regras sobre patrocínio, publicidade e comercialização de heróis;
 - **1984:** criação da **Diretoria de Proteção Extraordinária**, responsável por licenças, seguros, incidentes, equipamentos e coordenação institucional;
-- anos 1990: informatização progressiva de licenças e consolidação de regras de privacidade, missões internacionais e neutralidade profissional.
+- anos 1990: informatização progressiva de licenças e consolidação de regras de privacidade, missões internacionais e neutralidade profissional;
+- **2004:** criação de credenciais temporárias para profissionais extraordinários estrangeiros em emergências autorizadas;
+- **2012:** adoção integrada do número **112** e reforço da proteção jurídica de dados pessoais relativos a Habilidades.
 
 Sintica regula **atividade profissional e risco**, não a simples existência de uma Habilidade.
 
 ## Soberano contemporâneo — família e limites de autoria
 
-O soberano do **presente narrativo de 2014** continua sendo parcialmente reservado ao autor, mas seu quadro familiar e sucessório está agora definido.
+O soberano do **presente narrativo de 2014** continua sendo parcialmente reservado ao autor, mas seu quadro familiar e sucessório está definido.
 
 Fatos fixados:
 
@@ -164,6 +185,8 @@ Fatos fixados:
 - completa **18 anos em 4 de janeiro de 2014**, encerrando a regência ordinária e assumindo pessoalmente as prerrogativas da Coroa;
 - em **2025 completa 29 anos**;
 - Maria Ilona é herdeira presumptiva enquanto o soberano não tiver descendência própria.
+
+Após 4 de janeiro de 2014, Katalin conserva dignidade dinástica como mãe do soberano e antiga Princesa-Regente, mas não possui poder constitucional automático.
 
 Permanecem deliberadamente abertos: **nome, aparência, Habilidade, personalidade, educação detalhada, opiniões políticas, popularidade, casamento ou vida amorosa, relação emocional com a família e estilo pessoal de governo**.
 
@@ -191,13 +214,13 @@ Toda decisão estrutural sobre Sintica que afete território, história, regime,
 - `cronologia-1946-1960.md`
 - `cronologia-1961-1980.md`
 - `cronologia-1981-2000.md`
+- `cronologia-2001-2014.md`
 
 ## Elementos ainda abertos
 
-- cronologia política detalhada de 2001–2014;
-- atuação específica da Regência de Katalin;
 - demografia histórica detalhada;
 - línguas oficiais e níveis de cooficialidade;
 - assentamentos e formas multilíngues definitivas;
 - desenho fino das instituições contemporâneas;
-- heróis históricos individuais ainda não definidos.
+- heróis históricos individuais ainda não definidos;
+- para o soberano contemporâneo: nome, aparência, Habilidade, personalidade, educação detalhada, opiniões políticas, popularidade, vida amorosa, relações emocionais e estilo pessoal de governo.
