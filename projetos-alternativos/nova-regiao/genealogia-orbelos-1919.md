@@ -11,6 +11,26 @@ Este documento fixa a genealogia principal e os ramos vivos da Casa de Orbelos n
 - A conexão turco-otomana mais clara em 1919 vem de um **ramo cadete convertido ao Islã no início do século XIX**, e não de um casamento inventado apenas para completar uma lista de origens.
 - Os nomes históricos podem variar conforme a língua do documento. A forma usada abaixo é a forma de referência adotada pela historiografia sinticana moderna.
 - Pessoas externas à Casa aqui descritas são personagens fictícios; quando utilizam sobrenomes reais ou historicamente atestados, isso serve à plausibilidade linguística e social e não pretende reescrever automaticamente genealogias de pessoas históricas reais.
+- A documentação genealógica contínua torna-se realmente segura apenas no século XVIII. A linhagem anterior é preservada por documentação fragmentária, tradição familiar e reconstrução historiográfica e está detalhada em `linhagem-habilidades-orbelos.md`.
+
+---
+
+# 0. ANTECEDENTES ANCESTRAIS DA LINHAGEM
+
+A tradição histórica da Casa identifica uma sequência de portadores extraordinários anteriores à documentação contínua.
+
+Os principais são:
+
+- **Mihail “de Orbelos” (c. 1170–1238)** — `O Sangue Mais Forte`, origem do mecanismo hereditário acumulativo da linhagem;
+- **Theodoros Orbelos (c. 1262–1331)** — controle de `Éter`, lembrado como mago, bruxo ou feiticeiro;
+- **Stefan Orbelos (c. 1341–1408)** — `Transporte de Mente`;
+- **Andronikos Orbelos (1476–1544)** — `Tinta Preta`;
+- **Nikola Orbelos (1609–1677)** — teleporte por memória e representação visual;
+- **Petar Orbelos (1698–1761)** — solidificação extraordinária de oxigênio.
+
+A cadeia documental entre esses homens não é preservada geração por geração, mas a historiografia sinticana os considera ancestrais da linha que desemboca em Petros Orbelos.
+
+**Petar Orbelos (1698–1761)** é o pai de Petros Orbelos (1744–1809) e constitui a ponte imediata entre a tradição ancestral e a genealogia documental moderna.
 
 ---
 
@@ -19,11 +39,18 @@ Este documento fixa a genealogia principal e os ramos vivos da Casa de Orbelos n
 ## Petros Orbelos (1744–1809)
 Primeiro chefe da linhagem cuja documentação familiar é considerada contínua e suficientemente segura pelos arquivos modernos da Casa.
 
+Filho de **Petar Orbelos (1698–1761)**.
+
 - cristão ortodoxo;
 - proprietário rural e credor de caravanas e comerciantes;
 - atuava como intermediário entre aldeias, autoridades fiscais e comerciantes do espaço otomano;
 - não era soberano nem príncipe reinante;
 - aparece em documentos em formas equivalentes a Petros/Petar/Petrus conforme a língua do escriba.
+
+### Habilidade — Inteligência Superior
+Petros possuía capacidade intelectual extraordinariamente elevada: memória de trabalho excepcional, aprendizado acelerado, cálculo mental, reconhecimento de padrões, facilidade linguística e capacidade de acompanhar muitas variáveis ao mesmo tempo.
+
+A Habilidade não lhe dava conhecimento automático nem infalibilidade; informações falsas, emoções, preconceitos e pontos cegos podiam levá-lo a erros.
 
 ### Esposa: Despina Žguma (1753–1820)
 Cristã ortodoxa de família aromana de comerciantes. `Žguma` é usado aqui como forma moderna de referência para um sobrenome aromano historicamente atestado na Macedônia.
@@ -35,7 +62,7 @@ O casamento é o primeiro grande vínculo comercial externo seguramente preserva
 2. **Eleni Orbelos** (1775–1847), casada com comerciante grego de Salônica;
 3. **Georgios Orbelos** (1779–1846), fundador do ramo muçulmano-otomano.
 
-### Habilidade documentada
+### Habilidade documentada de Eleni
 Eleni Orbelos possuía uma Habilidade conhecida posteriormente como **Flame Snuff**: podia extinguir uma única chama aberta que estivesse vendo, a curta distância, mediante um gesto deliberado de fechar a mão. Não era combatente profissional. Relatos familiares e paroquiais associam sua reputação a incêndios domésticos e de armazéns. O caso é lembrado como exemplo de figura extraordinária pré-profissional, não como fundadora do heroísmo sinticano.
 
 ---
@@ -44,6 +71,11 @@ Eleni Orbelos possuía uma Habilidade conhecida posteriormente como **Flame Snuf
 
 ## Nikola Orbelos (1772–1834)
 Filho mais velho de Petros. Manteve a base fundiária da família e expandiu relações com notáveis rurais eslavófonos.
+
+### Habilidade — Ossos Duros
+O tecido ósseo de Nikola era extraordinariamente duro, resistente e forte. Fraturas exigiam forças muito superiores ao normal e o esqueleto suportava impactos e esforço mecânico excepcionais.
+
+A Habilidade não protegia automaticamente pele, músculos, ligamentos ou cérebro: Nikola ainda podia sofrer cortes, luxações, lesões musculares e concussão sem fraturar o crânio. Seu esqueleto era também um pouco mais denso e pesado que o normal.
 
 ### Esposa: Ana, filha de Todor Petrov (1778–1846)
 Oriunda de uma família ortodoxa local de língua eslava/búlgara. Para o período, a documentação familiar preserva preferencialmente a forma patronímica `filha de Todor Petrov` em vez de lhe atribuir retroativamente um sobrenome moderno fixo.
@@ -108,6 +140,8 @@ Chefe da Casa desde 1906. Reconhecido em 27 de novembro de 1919 como primeiro Pr
 - jurista e administrador formado em Viena;
 - **não possui Habilidade conhecida**;
 - sua legitimidade é dinástica, patrimonial, política e diplomática, não extraordinária.
+
+A ausência de manifestação visível é compatível com a herança acumulativa da linhagem: capacidades podem permanecer dormentes e ainda ser transmitidas.
 
 ## Consorte: Maria Economou (1876–1952)
 Cristã ortodoxa de uma família aromana urbana e mercantil da região de Bitola, cuja documentação comercial frequentemente utiliza formas gregas de nomes e sobrenomes. Casou-se com Teodor em 1895.
@@ -238,19 +272,29 @@ O ramo é reconhecido socialmente como parente distante dos Orbelos, mas não oc
 
 # VII. A CASA E AS HABILIDADES
 
-A Casa de Orbelos **não é uma linhagem de super-humanos hereditários**.
+A Casa de Orbelos possui uma **herança extraordinária acumulativa**, originada em `O Sangue Mais Forte`, mas não funciona como uma linhagem em que todos os membros manifestam o mesmo poder.
 
-Em 1919, entre os membros próximos e ramos conhecidos, há pessoas com e sem Habilidades. Não existe regra canônica de transmissão mendeliana, nem a Coroa baseia direitos dinásticos na presença de uma Habilidade.
+Não existe transmissão mendeliana simples. Uma Habilidade pode ficar dormente por gerações e ainda continuar dentro da linhagem. A manifestação individual é irregular.
 
-Casos canônicos até 1919:
+Casos ancestrais canônicos anteriores a 1744:
+- Mihail “de Orbelos” — `O Sangue Mais Forte`;
+- Theodoros Orbelos — `Éter`;
+- Stefan Orbelos — `Transporte de Mente`;
+- Andronikos Orbelos — `Tinta Preta`;
+- Nikola Orbelos (1609–1677) — Teleporte;
+- Petar Orbelos (1698–1761) — Oxigênio sólido.
+
+Casos canônicos documentados depois disso:
+- Petros Orbelos (1744–1809): Inteligência superior;
+- Nikola Orbelos (1772–1834): Ossos duros;
 - Eleni Orbelos (1775–1847): `Flame Snuff`;
 - Aleksandar Orbelos (1896– ): `Holdfast`;
 - Boris Orbelos (1899– ): `Latch`;
 - Katerina Orbelos (1905– ): `Threadline`.
 
-Teodor I não possui Habilidade conhecida.
+Teodor I não possui Habilidade conhecida, o que é compatível com dormência hereditária.
 
-Isso é deliberado: a Casa participa do mesmo mundo extraordinário que o restante da sociedade, mas não é uma dinastia escolhida, uma linhagem secreta nem a origem das Habilidades sinticanas.
+Nada disso concede direito sucessório, legitimidade religiosa ou precedência constitucional. A independência de Sintica não foi causada pelas Habilidades da família.
 
 ---
 
