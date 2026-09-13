@@ -4,7 +4,7 @@ Status: **cânone ativo do Principado de Sintica**.
 
 Este documento fixa a linhagem direta entre **Teodor II** e o soberano que ocupa o trono no presente narrativo de 2014. Ele substitui as notas anteriores que deixavam pais, irmãos, predecessor e causa da sucessão contemporânea em aberto.
 
-O autor continua reservando para decisão própria o **nome do soberano contemporâneo, aparência, Habilidade, personalidade, educação detalhada, opiniões políticas, vida amorosa e estilo pessoal de governo**.
+O autor continua reservando para decisão própria o **nome do soberano contemporâneo, aparência, personalidade, educação detalhada, opiniões políticas, vida amorosa e estilo pessoal de governo**. A existência de Habilidades já não está totalmente em aberto: o conjunto atualmente confirmado é mantido em `habilidades-principe-contemporaneo.md`.
 
 ---
 
@@ -83,7 +83,26 @@ Fatos familiares fixados:
 - permanece juridicamente soberano durante toda a regência;
 - completa **18 anos em 4 de janeiro de 2014**, quando assume pessoalmente o exercício pleno das prerrogativas da Coroa.
 
-Seu **nome continua reservado ao autor**. Também permanecem reservados aparência, Habilidade ou ausência dela, personalidade, educação detalhada, opiniões, popularidade, casamento, vida amorosa e estilo pessoal de governo.
+Seu **nome continua reservado ao autor**. Permanecem reservados aparência, personalidade, educação detalhada, opiniões, popularidade, casamento, vida amorosa e estilo pessoal de governo.
+
+### Habilidades confirmadas
+
+Até o ponto atual da continuidade, o Príncipe já demonstrou um conjunto excepcional de Habilidades/manifestações que pode ser tratado como certo em nível de cânone:
+
+- **O Sangue Mais Forte**;
+- **Éter**;
+- **Oxigênio sólido**;
+- **Teleporte**;
+- **Transporte de mente**;
+- **Tinta preta**;
+- **Ossos duros**;
+- **Inteligência**.
+
+A lista é **não exaustiva**. Existem outras Habilidades já demonstradas que ainda não foram reenunciadas pelo autor e, portanto, não devem ser inventadas por preenchimento.
+
+`Transporte de mente` é confirmado em nível autoral, mas o próprio Príncipe **não sabe** que possui essa Habilidade no ponto atual da história.
+
+As mecânicas completas, limites, alcance, custo, grau de domínio e publicidade de cada capacidade permanecem abertos. O dossiê detalhado está em `habilidades-principe-contemporaneo.md`.
 
 ## 2. Maria Ilona Orbelos (1999– )
 
@@ -137,8 +156,6 @@ Assim, **Katalin torna-se Princesa-Regente de Sintica em 18 de setembro de 2008*
 
 Depois da Regência, Katalin conserva dignidade dinástica própria como mãe do soberano, mas não mantém poderes constitucionais automáticos.
 
-Sua atuação política detalhada durante 2008–2014 será desenvolvida na cronologia contemporânea, sem transformá-la numa governante absoluta.
-
 ---
 
 # VI. A FAMÍLIA EM 2014
@@ -174,14 +191,16 @@ Os parentes colaterais não constituem um conselho familiar com poder automátic
 
 # VIII. REGRA DE CONTINUIDADE
 
-Este documento define apenas o **quadro familiar e sucessório** do soberano contemporâneo.
+Este documento define o quadro familiar e sucessório e registra o conjunto mínimo de Habilidades já confirmado para o soberano contemporâneo.
 
 Continuam reservados ao autor:
 
 - nome do soberano;
 - aparência;
 - personalidade;
-- Habilidade;
+- mecânica completa e limites das Habilidades;
+- origem da pluralidade de Habilidades;
+- demais Habilidades já demonstradas, mas ainda não reenunciadas;
 - educação detalhada;
 - opiniões políticas;
 - vida amorosa e casamento;
@@ -189,10 +208,4 @@ Continuam reservados ao autor:
 - estilo de exercício das prerrogativas;
 - papel narrativo na história de Thomas.
 
-Qualquer arquivo mais antigo que diga que pais, irmãos, predecessor, data de nascimento ou causa da sucessão estão em aberto deve ser interpretado como **superado por este documento**.
-
-## Referências históricas de plausibilidade
-
-- A família Rosetti é historicamente uma família boiarda/principesca romena de raízes gregas/fanariotas; Ana é personagem fictícia de ramo fictício.
-- A família Teleki é historicamente uma antiga família aristocrática húngaro-transilvana; Katalin é personagem fictícia de ramo fictício.
-- A adoção de primogenitura absoluta em 1993 segue a tendência europeia iniciada pela Suécia em 1980 e seguida por Países Baixos, Noruega e Bélgica antes ou no início dos anos 1990.
+Qualquer arquivo mais antigo que diga que pais, irmãos, predecessor, data de nascimento, causa da sucessão ou a própria existência de Habilidades do soberano estão totalmente em aberto deve ser interpretado como **superado por este documento e por `habilidades-principe-contemporaneo.md`**.
