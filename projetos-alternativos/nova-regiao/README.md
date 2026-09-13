@@ -10,136 +10,158 @@ Este diretório contém o projeto do país fictício **Sintica** e permanece sep
 - **Nome oficial moderno:** Principado de Sintica.
 - **Forma de Estado:** principado soberano hereditário de **monarquia semi-constitucional, com governo parlamentar**.
 - **Dinastia:** Casa de Orbelos.
-- **Primeiro soberano moderno:** **Teodor I Orbelos**, reconhecido em 1919 e em exercício soberano pleno a partir de 9 de agosto de 1920.
 - **Território-base moderno:** área equivalente ao atual Município de Novo Selo, Macedônia do Norte, considerado integralmente como território de Sintica na continuidade fictícia.
-- O país não é uma continuação fictícia da atual municipalidade: apenas utiliza a mesma área física.
+- O país não é uma continuação fictícia da atual municipalidade: utiliza apenas a mesma área física.
 
-A monarquia sinticana não é puramente cerimonial. O governo cotidiano é parlamentar, mas a Coroa conserva poderes constitucionais próprios. Em 1920 esses poderes são mais amplos e tradicionais do que no período moderno.
+A monarquia não é puramente cerimonial. O governo cotidiano depende do Parlamento, mas a Coroa conserva prerrogativas constitucionais próprias.
 
 ## Fundação e independência moderna
 
-A história regional real é preservada até a reorganização territorial posterior à Primeira Guerra Mundial.
+A história regional permanece próxima da história real até a reorganização territorial posterior à Primeira Guerra Mundial.
 
-- Até **1912**, o território permanece no Império Otomano, acompanhando a história geral da região de Strumica.
-- Entre **1912 e 1913**, a retirada otomana e as Guerras Balcânicas colocam a região no centro da disputa entre os Estados balcânicos.
-- Na história real, o Tratado de Bucareste de 1913 deixou Strumica sob domínio búlgaro, situação mantida até o fim da Primeira Guerra Mundial.
-- O ponto de divergência principal ocorre na conferência de paz de **1919**. Na história real, o Tratado de Neuilly-sur-Seine transferiu a região de Strumica da Bulgária para o Reino dos Sérvios, Croatas e Eslovenos e descreveu a nova fronteira passando por localidades situadas na área do atual Município de Novo Selo.
-- Na continuidade de Sintica, as Potências Aliadas e Associadas aceitam uma solução distinta para esse pequeno setor de fronteira: a área correspondente ao futuro território sinticano é separada tanto da Bulgária quanto do Reino dos Sérvios, Croatas e Eslovenos e reconhecida como um pequeno principado soberano sob a Casa de Orbelos.
-- **27 de novembro de 1919:** assinatura do acordo de paz e reconhecimento internacional do Principado de Sintica. Esta é a data política de fundação do Estado moderno.
-- **9 de agosto de 1920:** entrada em vigor do arranjo internacional e início da soberania jurídica plena de Sintica. Esta é a data constitucional de independência efetiva.
+- Até **1912**, o território permanece no Império Otomano.
+- Entre **1912 e 1913**, as Guerras Balcânicas colocam a região no centro das disputas balcânicas.
+- Na história real, Strumica ficou sob domínio búlgaro em 1913 e foi posteriormente transferida ao Reino dos Sérvios, Croatas e Eslovenos pelo arranjo de Neuilly.
+- Na continuidade de Sintica, o ponto de divergência ocorre em **1919**: a área correspondente ao futuro principado é separada tanto da Bulgária quanto do novo Estado sul-eslavo.
+- **27 de novembro de 1919:** reconhecimento internacional e fundação política.
+- **9 de agosto de 1920:** independência juridicamente efetiva e início da soberania constitucional plena.
 
-A solução de 1919–1920 deve ser entendida como uma alteração cirúrgica da fronteira real de Neuilly, não como uma reescrita completa das Guerras Balcânicas ou da Primeira Guerra Mundial.
-
-## Razões políticas para a solução sinticana
-
-A independência não ocorre por acaso nem porque Sintica seja militarmente capaz de derrotar seus vizinhos.
-
-O acordo internacional torna-se plausível pela combinação de:
-
-- posição na junção das fronteiras búlgara, grega e sul-eslava;
-- escala territorial pequena, permitindo uma solução de neutralização sem alterar profundamente o equilíbrio balcânico;
-- população historicamente multilíngue e formada por sucessivas comunidades locais e migrantes;
-- atuação diplomática de uma antiga Casa de Orbelos, com vínculos familiares e políticos em mais de um espaço balcânico e centro-europeu;
-- interesse internacional em impedir que o pequeno setor se torne mais um foco permanente de disputa fronteiriça;
-- compromisso constitucional de Sintica com proteção das comunidades históricas, de seus idiomas e de sua toponímia.
-
-A forma exata do protocolo internacional e as potências que patrocinam mais ativamente a solução ainda serão detalhadas em cronologia posterior.
+A independência é uma alteração localizada da fronteira de Neuilly, não uma reescrita completa das Guerras Balcânicas ou da Primeira Guerra Mundial.
 
 ## Casa de Orbelos
 
-A Casa de Orbelos é anterior ao Estado moderno. Sua existência aristocrática e influência regional precedem a independência de 1919–1920.
+A Casa de Orbelos é anterior ao Estado moderno. Sua existência aristocrática, patrimônio e redes matrimoniais precedem a independência.
 
-O chefe da Casa na fundação do Estado é **Teodor Orbelos**, nascido em **1871** no território que posteriormente formaria Sintica. Cristão ortodoxo, educado como membro de uma elite balcânica internacionalizada e com estudos superiores de direito e administração em Viena, Teodor já era um chefe dinástico maduro quando se tornou a solução monárquica de compromisso em 1919.
+### Teodor I
 
-A partir da independência efetiva, ele reina como **Teodor I, Príncipe Soberano de Sintica**.
+**Teodor I Orbelos (1871–1962)** é o primeiro Príncipe Soberano moderno. Reconhecido em 1919, exerce soberania plena a partir de 9 de agosto de 1920.
 
-Teodor é casado desde 1895 com **Maria Economou (1876–1952)**, de família aromana urbana e mercantil da região de Bitola. O casal possui quatro filhos vivos em 1919: **Aleksandar (1896)**, Príncipe Herdeiro; **Sofia (1898)**; **Nikola (1901)**; e **Katerina (1905)**.
+É casado desde 1895 com **Maria Economou (1876–1952)**, de família aromana urbana e mercantil da região de Bitola.
 
-Teodor não possui Habilidade conhecida. Aleksandar possui `Holdfast`; Katerina possui `Threadline`. Outros parentes da Casa também incluem pessoas com e sem Habilidades, sem qualquer regra dinástica de transmissão ou direito sucessório baseado em poder extraordinário.
+Filhos:
 
-A genealogia completa canônica da Casa na fundação de Sintica está em `genealogia-orbelos-1919.md`. O documento sobre Teodor I e a ordem constitucional inicial está em `casa-de-orbelos-e-constituicao-1920.md`.
+- **Aleksandar Orbelos (1896– )**;
+- **Sofia Orbelos (1898– )**;
+- **Nikola Orbelos (1901– )**;
+- **Katerina Orbelos (1905– )**.
 
-A família acumulou ao longo das gerações conexões locais/eslavas, gregas, aromanas, húngaras e austríacas/germanófonas. Um ramo cadete convertido ao Islã no início do século XIX preserva parentesco otomano/turco. Essas conexões surgem de casamentos, migrações e ramos reais da árvore, não de uma distribuição artificial de origens.
+Teodor não possui Habilidade conhecida. Aleksandar possui `Holdfast`; Katerina possui `Threadline`. Habilidades não criam direitos sucessórios.
+
+### Aleksandar I
+
+Com a morte de Teodor em **1962**, Aleksandar sucede automaticamente como **Aleksandar I, Príncipe Soberano de Sintica**.
+
+Aleksandar é casado desde 1923 com **Eleni Sideri (1900–1977)**, de família grega ortodoxa de comerciantes e profissionais de Salônica. Em documentos internacionais o sobrenome também pode aparecer como `Sideris`.
+
+Filhos:
+
+- **Teodor Orbelos (1925– )**, Príncipe Herdeiro desde 1962;
+- **Maria Orbelos (1928– )**;
+- **Konstantin Orbelos (1932– )**.
+
+Nenhuma Habilidade está canonizada para esses três neste estágio.
+
+Em **1980**, Aleksandar I ainda reina, aos 84 anos, sem regência. O filho Teodor assume grande parte da representação pública, mas a cadeia sucessória posterior permanece aberta.
+
+A genealogia detalhada da Casa na fundação está em `genealogia-orbelos-1919.md`.
 
 ## Ordem constitucional
 
-Sintica nasce em 1920 como uma **monarquia hereditária semi-constitucional**.
+Sintica nasce em 1920 como monarquia hereditária semi-constitucional.
 
-A ordem inicial combina representação popular com uma Coroa politicamente ativa. O Príncipe nomeia e demite ministros, sanciona leis, pode dissolver a Assembleia mediante novas eleições, representa o Estado externamente e exerce o comando supremo das forças armadas. Impostos, orçamento e legislação geral dependem da Assembleia.
+A reforma de **1964** estabelece a base moderna do regime:
 
-Os ministros respondem pelos atos de governo e o sistema conhece contrassinado ministerial, mas o parlamentarismo de 1920 ainda não transforma o Príncipe em figura cerimonial nem torna toda queda de gabinete automaticamente dependente de voto parlamentar.
+- o Príncipe nomeia o primeiro-ministro, mas o gabinete precisa de confiança parlamentar;
+- a Coroa conserva dissolução constitucional da Assembleia com convocação obrigatória de eleições;
+- existe veto devolutivo/suspensivo e mecanismos de superação parlamentar ou referendária conforme a matéria;
+- tratados relevantes dependem de ratificação parlamentar;
+- poderes emergenciais são temporários e sujeitos a contrassinado e ratificação;
+- o Príncipe conserva comando supremo, funções próprias de política externa e possibilidade de solicitar controle de constitucionalidade.
 
-Ao longo do século XX, reformas fortalecem a responsabilidade parlamentar do governo e limitam algumas prerrogativas, mas Sintica conserva no período moderno uma **Coroa com poderes constitucionais próprios**. O desenho atual detalhado será fixado em etapa posterior.
+Sintica não evolui nem para absolutismo nem para uma monarquia inteiramente decorativa.
 
-## Corte, festas e identidade visual
+## Neutralidade e integração europeia
 
-Ao longo do século XX, a Casa de Orbelos torna-se conhecida por uma vida social de corte muito ativa: bailes de inverno, recepções diplomáticas, concertos, jantares, festas de verão e galas beneficentes.
+A neutralidade é política permanente do Estado desde o entreguerras e é reafirmada depois da Segunda Guerra Mundial.
 
-Entre 1921 e 1927 a antiga residência da família é ampliada como **Palácio Principesco**. Em **1928** é inaugurado o **Grand Hotel Sintica**, hotel privado sob patronagem da Casa, que se torna centro social, diplomático e cultural do país.
+- Sintica não integra alianças militares permanentes.
+- Em **1975**, na continuidade fictícia, torna-se o **36º signatário** do Ato Final de Helsinki.
+- Em **1978**, ingressa no **Conselho da Europa**, preservando neutralidade militar e reforçando Estado de direito e direitos fundamentais.
 
-A estética pública do principado combina ecletismo centro-europeu e balcânico, neo-barroco, Secession e Art Déco. O contraste entre um grande hotel, uniformes, salões e etiqueta formal e a escala diminuta e rural do país torna-se uma das marcas visuais de Sintica.
+## Corte, Grand Hotel e identidade visual
 
-Nos anos de maior prosperidade, a Coroa organiza ou patrocina aproximadamente oito a quinze grandes eventos sociais por ano, além de recepções menores. Habilidades extraordinárias são integradas ao protocolo de segurança e etiqueta sem determinar precedência social.
+A Casa de Orbelos torna-se conhecida por bailes, recepções, concertos, jantares, festas de verão e galas beneficentes.
+
+Entre 1921 e 1927 a residência principal dos Orbelos é ampliada como **Palácio Principesco**. Em **1928** abre o **Grand Hotel Sintica**, hotel privado sob patronagem da Casa.
+
+A estética pública combina neo-barroco, ecletismo centro-europeu e balcânico, Secession e Art Déco. O hotel acumula também reformas dos anos 1950–70: elevadores, instalações modernas, carpetes sintéticos, iluminação embutida e falsos tetos. A coexistência entre luxo antigo e modernizações posteriores é canônica.
 
 O desenvolvimento detalhado está em `corte-vida-social-e-monarquia-moderna.md`.
 
+## Habilidades e tradição heroica
+
+A independência de Sintica não é causada por Habilidades extraordinárias. Pessoas extraordinárias simplesmente fazem parte da sociedade e da história, como no restante de *The Extraordinary World*.
+
+Marcos principais:
+
+- 1920s: registro de incidentes extraordinários sem cadastro universal de pessoas;
+- 1931: fortalecimento do Corpo Cívico de Socorro;
+- 1950: Estatuto de Intervenção Extraordinária Pública;
+- 1954: licenciamento civil de atividade heroica/protetiva;
+- 1963: missão sinticana de socorro após o terremoto de Skopje;
+- 1969: Código de Responsabilidade Extraordinária;
+- 1976–77: regras sobre patrocínio, publicidade e comercialização de heróis.
+
+Sintica regula **atividade profissional e risco**, não a simples existência de uma Habilidade.
+
 ## Soberano contemporâneo — limites de autoria
 
-O soberano que ocupa o trono no **presente narrativo de 2014** e continua reinando em 2025 será definido pessoalmente pelo autor. Somente os seguintes fatos estão fixados:
+O soberano que ocupa o trono no **presente narrativo de 2014** e continua reinando em 2025 será definido pessoalmente pelo autor.
+
+Somente os seguintes fatos estão fixados:
 
 - nasceu em **1996**;
 - sucedeu ao trono aos **12 anos**;
-- sua mãe exerceu a **Regência** durante sua menoridade;
-- a maioridade constitucional para o exercício pessoal pleno da Coroa ocorre aos **18 anos**;
-- em **2014 completa 18 anos**, encerrando a regência ordinária e iniciando o exercício pessoal pleno da Coroa;
+- sua mãe exerceu a **Regência** durante a menoridade;
+- a maioridade constitucional ocorre aos **18 anos**;
+- em **2014 completa 18 anos**, encerrando a regência ordinária;
 - em **2025 completa 29 anos**;
 - pertence à Casa de Orbelos.
 
-Como a data exata de nascimento ainda não foi definida, a sucessão ocorreu em **2008 ou 2009**, conforme a relação entre aniversário e data de acesso ao trono. Nome, aparência, Habilidade, personalidade, predecessor, causa da sucessão, irmãos, educação, casamento, política pessoal e relação com a mãe permanecem deliberadamente abertos.
+A sucessão ocorreu em **2008 ou 2009**, dependendo da futura data exata de nascimento e da data de acesso ao trono.
 
-Enquanto não houver decisão contrária, o título constitucional continua sendo **Príncipe Soberano de Sintica**.
+Permanecem deliberadamente abertos: nome, aparência, Habilidade, personalidade, predecessor, causa da sucessão, irmãos, educação, casamento, política pessoal, popularidade e relação com a mãe.
+
+Enquanto não houver retcon explícito, o título constitucional continua sendo **Príncipe Soberano de Sintica**.
 
 ## Regra permanente de nomenclatura histórica
 
-Os nomes de personagens, famílias, instituições, títulos e autoridades devem ser historicamente plausíveis para **época, língua, religião, origem regional e classe social**.
+Nomes de personagens, famílias, instituições, títulos e autoridades devem ser historicamente plausíveis para época, língua, religião, origem regional e classe social.
 
-Não usar nomes balcânicos, germânicos, otomanos ou centro-europeus genéricos apenas por aparência.
-
-Ao criar personagens importantes, respeitar as convenções reais do grupo correspondente, incluindo quando aplicável:
-
-- **Búlgaros e eslavos macedônios:** formas pessoais, patronímicos e sobrenomes compatíveis com período e região;
-- **Gregos:** forma grega e transliteração adequadas à época, com atenção a variantes regionais e religiosas;
-- **Otomanos/Turcos:** usar convenções otomanas para personagens do período otomano, sem aplicar retroativamente sobrenomes turcos modernos anteriores à Lei dos Sobrenomes de 1934;
-- **Austríacos e demais germanófonos:** nomes, partículas, títulos e sobrenomes de acordo com origem social e período;
-- **Húngaros:** respeitar nomes húngaros reais e a ordem nominal húngara quando o contexto interno exigir;
-- **Sérvios, albaneses, valáquios/aromanos, judeus sefarditas, roma e outros grupos regionais:** usar convenções próprias quando aparecerem, sem homogeneização balcânica.
-
-Para figuras de governo, militares, clero, aristocracia, diplomatas e famílias relevantes, a nomenclatura deve ser verificada historicamente antes de ser canonizada.
+Não usar nomes balcânicos, germânicos, otomanos ou centro-europeus genéricos apenas por aparência. Formas gregas, eslavas, otomanas, húngaras, germanófonas, romenas/aromanas e outras devem respeitar convenções reais do período.
 
 ## Regra de sincronização entre repositórios
 
 Sintica também existe no cânone de **The Extraordinary World** (`MrRavier/Hero-universe-ravier`).
 
-Toda decisão estrutural sobre Sintica que afete território, história, regime, dinastia, população, línguas, instituições nacionais ou tradição heroica deve ser registrada nos **dois repositórios**:
+Toda decisão estrutural sobre Sintica que afete território, história, regime, dinastia, população, línguas, instituições nacionais ou tradição heroica deve ser registrada nos **dois repositórios**.
 
-1. `MrRavier/Pais-ficticio-ravier`, como fonte detalhada da história nacional;
-2. `MrRavier/Hero-universe-ravier`, como fonte de integração de Sintica ao universo compartilhado.
+1. `MrRavier/Pais-ficticio-ravier` — história nacional detalhada;
+2. `MrRavier/Hero-universe-ravier` — integração ao universo compartilhado.
 
-Quando houver diferença de nível de detalhe, os dois arquivos não devem se contradizer: o repositório do país pode conter a cronologia completa, enquanto o repositório de heróis registra apenas os fatos necessários ao universo compartilhado.
+## Cronologia canônica disponível
 
-## Princípios gerais
+- `cronologia-1920-1939.md`
+- `cronologia-1940-1945.md`
+- `cronologia-1946-1960.md`
+- `cronologia-1961-1980.md`
 
-- Somente elementos aprovados explicitamente pelo autor devem ser tratados como cânone deste projeto.
-- Figuras históricas reais não serão automaticamente apropriadas como personagens nacionais; isso será decidido caso a caso.
-- Preservar o máximo possível da história regional real até o ponto de divergência de 1919.
-- A independência de Sintica não é causada pelas Habilidades extraordinárias do universo de heróis. A dimensão heroica acompanha a história política, mas não substitui suas causas diplomáticas e sociais.
+## Elementos ainda abertos
 
-## Próximos elementos a desenvolver
-
-- patrocinadores diplomáticos da solução sinticana em Paris/Neuilly;
-- texto artigo por artigo da primeira constituição;
-- fronteira e demarcação de 1920;
-- população e identidade linguística;
-- assentamentos e formas oficiais multilíngues;
-- cronologia política do entreguerras;
-- tradição heroica sinticana dentro de *The Extraordinary World*.
+- cadeia completa de soberanos depois de 1980 até o príncipe nascido em 1996;
+- identidade do predecessor do soberano contemporâneo;
+- demografia histórica detalhada;
+- línguas oficiais e níveis de cooficialidade;
+- assentamentos e formas multilíngues definitivas;
+- desenho fino das instituições contemporâneas;
+- heróis históricos individuais ainda não definidos.
