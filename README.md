@@ -14,7 +14,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 8. Mudanças territoriais posteriores devem ser justificadas dentro da cronologia e não retroativamente tratadas como parte do Estado fundador.
 9. Retcons aprovados pelo usuário substituem versões anteriores do cânone e devem ser atualizados nos documentos pertinentes.
 10. Figuras fictícias importantes devem ser nomeadas à medida que entram na história, com origem linguística, função e posição política coerentes com a escala do país.
-11. A transição pós-soviética está fixada até **1999**. O Estado declara independência em 22 de agosto de 1991, mantém de facto as fronteiras herdadas da RSS, adota Constituição permanente em 1995 e continua sob a presidência de Olev Saar até o fim de 1999. Estônia e Letônia mantêm reivindicações jurídicas sobre territórios transferidos no período soviético. Decisões posteriores, sobretudo as que alcançarão **2004**, não devem ser antecipadas sem determinação expressa do usuário.
+11. A cronologia está fixada até **29 de fevereiro de 2004**. A decisão posterior de 2004 está reservada em `decisoes/ponto-de-decisao-2004.md` e não deve ser antecipada. Até essa data, Olev Saar permanece presidente, Peeter Raud primeiro-ministro, as fronteiras de facto herdadas da RSS continuam sob controle da República e as negociações europeias permanecem incompletas.
 12. A configuração territorial soviética madura e a fronteira de facto mantida após 1991 correspondem integralmente, em equivalência moderna, a **Valga County + Võru County + Valkas novads + Alūksnes novads**. Põlva, Smiltene, Valmiera, Gulbene, Cēsis e demais unidades não aprovadas permanecem fora.
 13. Nos mapas do usuário, salvo indicação contrária, **cada polígono colorido representa uma unidade administrativa inteira**.
 14. Os documentos históricos devem seguir `regras/estilo-historico.md`: **sem metanarração, sem explicar ao leitor decisões de worldbuilding, sem slogans autorais repetitivos, sem prosa autocorretiva e sem vícios de linguagem típicos de resposta de IA**. Justificativas editoriais ficam em `auditorias/`, `decisoes/` e `retcons/`, não misturadas à cronologia.
@@ -40,6 +40,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `historia/1985-1989.md` — Gorbachev, campanha contra o álcool, Chernobyl, glasnost, movimentos ambientais, frentes populares, retorno público da história de 1920, lei de línguas e Caminho Báltico.
 - `historia/1990-1994.md` — eleições competitivas, independência, recusa de ceder territórios, disputa com Estônia e Letônia, cidadania ampla, crise monetária, retirada russa e continuidade de Olev Saar.
 - `historia/1995-1999.md` — Constituição permanente, moeda própria, continuidade de Saar, acordos fronteiriços provisórios, crise russa de 1998, reforma bancária e pedido de adesão à União Europeia.
+- `historia/2000-2004.md` — segundo mandato de Saar, negociações europeias, maior autonomia municipal, mudança da âncora monetária para o euro, exclusão do alargamento da OTAN de 2002 e situação política até fevereiro de 2004.
 
 ### Resumos
 - `resumos/1920-1924.md`
@@ -58,6 +59,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `resumos/1985-1989.md`
 - `resumos/1990-1994.md`
 - `resumos/1995-1999.md`
+- `resumos/2000-2004.md`
 
 ### Personagens
 - `personagens/1920-1924.md`
@@ -76,10 +78,12 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `personagens/1985-1989.md`
 - `personagens/1990-1994.md`
 - `personagens/1995-1999.md`
+- `personagens/2000-2004.md`
 
 ### Decisões territoriais e de transição
 - `decisoes/territorio-extra-opcoes.md` — decisão canônica sobre Võru, Valkas e Alūksne e equivalência da fronteira soviética madura.
 - `decisoes/transicao-1990-1994.md` — independência, manutenção das fronteiras de facto, cidadania, retirada russa e continuidade política de Olev Saar.
+- `decisoes/ponto-de-decisao-2004.md` — situação canônica até fevereiro de 2004 e matérias deixadas abertas para a decisão posterior.
 
 ### Regras, auditorias e retcons
 - `regras/estilo-historico.md` — padrão obrigatório de prosa histórica e lista de vícios a evitar.
@@ -110,3 +114,4 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - 1989: ~128 mil
 - 1994: ~123–124 mil
 - 1999: ~118–119 mil
+- 2003: ~114–115 mil
