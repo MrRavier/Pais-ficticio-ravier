@@ -34,7 +34,10 @@ O casamento reforçou as antigas ligações romenas e fanariotas da Casa sem con
 
 Sofia e Nikola pertencem à linha dinástica, mas não interferem na sucessão direta enquanto houver descendência legítima de Aleksandar II.
 
-Nenhuma Habilidade é fixada neste documento para Ana, Sofia ou Nikola.
+- **Sofia Orbelos** possui a Habilidade conhecida informalmente como `Beleza`: uma regulação extraordinária de múltiplos processos biológicos que preserva aparência, pele, cabelos e tecidos, fazendo-a aparentar muito menos idade do que possui. Ela trabalha com pesquisa e desenvolvimento de uma linha privada de cosméticos e cuidados de pele inspirada nos mecanismos observados em sua própria Habilidade. Ver `sofia-orbelos-contemporanea.md`.
+- **Nikola Orbelos** possui um olho extraordinário completamente negro, normalmente coberto por tapa-olho, capaz de disparar uma haste de energia negra puramente concussiva, silenciosa, sem cheiro ou aura. Ver `nikola-orbelos-contemporaneo.md`.
+
+Nenhuma Habilidade está canonizada para Ana Rosetti.
 
 ---
 
@@ -165,8 +168,8 @@ No início do exercício pessoal pleno do soberano, a família imediata é:
 - **o Príncipe Soberano**, 18 anos;
 - **Katalin Teleki**, sua mãe e ex-Princesa-Regente, 45 anos;
 - **Princesa Maria Ilona Orbelos**, irmã, 14 anos;
-- **Princesa Sofia Orbelos**, tia paterna;
-- **Príncipe Nikola Orbelos**, tio paterno.
+- **Princesa Sofia Orbelos**, tia paterna, 53–54 anos, mas com aparência sensivelmente mais jovem por efeito de sua Habilidade;
+- **Príncipe Nikola Orbelos**, tio paterno, 49–50 anos.
 
 A avó paterna **Ana Rosetti** morreu em 2011, durante a Regência. O avô paterno **Teodor II** morreu em 2002.
 
@@ -191,15 +194,13 @@ Os parentes colaterais não constituem um conselho familiar com poder automátic
 
 # VIII. REGRA DE CONTINUIDADE
 
-Este documento define o quadro familiar e sucessório e registra o conjunto mínimo de Habilidades já confirmado para o soberano contemporâneo.
+Este documento define o quadro familiar e sucessório e registra o conjunto mínimo de Habilidades já confirmado para membros contemporâneos relevantes da Casa.
 
-Continuam reservados ao autor:
+Continuam reservados ao autor para o soberano contemporâneo:
 
-- nome do soberano;
-- aparência;
+- nome;
 - personalidade;
 - mecânica completa e limites das Habilidades;
-- origem da pluralidade de Habilidades;
 - demais Habilidades já demonstradas, mas ainda não reenunciadas;
 - educação detalhada;
 - opiniões políticas;
@@ -208,4 +209,4 @@ Continuam reservados ao autor:
 - estilo de exercício das prerrogativas;
 - papel narrativo na história de Thomas.
 
-Qualquer arquivo mais antigo que diga que pais, irmãos, predecessor, data de nascimento, causa da sucessão ou a própria existência de Habilidades do soberano estão totalmente em aberto deve ser interpretado como **superado por este documento e por `habilidades-principe-contemporaneo.md`**.
+Qualquer arquivo mais antigo que diga que Sofia ou Nikola não possuem Habilidade canonizada deve ser interpretado como **superado** pelos dossiês contemporâneos específicos.
