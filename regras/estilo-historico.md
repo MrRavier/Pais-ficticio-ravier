@@ -30,6 +30,12 @@ Remover ou reduzir construções como:
 
 Quando uma restrição for canônica, registrá-la como fato. Exemplo ruim: “Não vamos transformar a RSS em uma guerra civil porque isso seria exagerado.” Exemplo melhor: “A resistência permaneceu fragmentada e nunca controlou território de forma contínua.”
 
+## Proibição de prosa autocorretiva
+
+A cronologia não pode mencionar versões anteriores do projeto, erros de escrita, correções editoriais ou a intenção de demonstrar que um vício foi corrigido. São inadequadas frases como “ao contrário da versão anterior”, “diferente dos personagens que inventávamos”, “para não repetir o erro”, “não criamos aqui” ou qualquer comentário sobre como o autor construiu a lore.
+
+Uma alteração aprovada deve desaparecer dentro do fato histórico. O leitor do arquivo canônico não deve perceber que houve uma versão anterior, salvo em `retcons/` ou `auditorias/`.
+
 ## Evitar prosa excessivamente simétrica
 
 Frases curtas e memoráveis podem existir quando forem slogans documentados, propaganda, título de jornal, apelido contemporâneo ou citação atribuída. Não usar sistematicamente antíteses e tríades produzidas pelo narrador.
@@ -106,6 +112,7 @@ Ao revisar cada bloco antigo, procurar especificamente:
 4. personagens excessivamente funcionais ou simbolicamente equilibrados;
 5. crises solucionadas de modo limpo demais;
 6. notas de continuidade misturadas à narrativa;
-7. repetições de “isso”, “agora”, “aqui”, “ou seja”, “não significa”, “em vez de”, “por outro lado” e “ao mesmo tempo” usadas como muletas estruturais.
+7. repetições de “isso”, “agora”, “aqui”, “ou seja”, “não significa”, “em vez de”, “por outro lado” e “ao mesmo tempo” usadas como muletas estruturais;
+8. referências à própria escrita, à “lore”, a versões anteriores ou à intenção de corrigir um padrão editorial.
 
 Esses pontos devem ser corrigidos antes de considerar um bloco editorialmente consolidado.
