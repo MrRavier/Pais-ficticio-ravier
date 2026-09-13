@@ -14,7 +14,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 8. Mudanças territoriais posteriores devem ser justificadas dentro da cronologia e não retroativamente tratadas como parte do Estado fundador.
 9. Retcons aprovados pelo usuário substituem versões anteriores do cânone e devem ser atualizados nos documentos pertinentes.
 10. Figuras fictícias importantes devem ser nomeadas à medida que entram na história, com origem linguística, função e posição política coerentes com a escala do país.
-11. A cronologia está fixada até **31 de dezembro de 2019**. Aleksandr Reimers permanece presidente após nova vitória eleitoral em 2018. Sergei Tamm substitui Viktors Belovs como primeiro-ministro em 2019. A Ordem Republicana continua majoritária, porém enfraquecida. O país mantém as fronteiras herdadas da RSS, neutralidade militar formal, nenhuma base russa permanente e relações políticas estreitas com Moscou, ao mesmo tempo em que tenta recuperar parte do comércio técnico com Estônia e Letônia.
+11. A cronologia está fixada até **31 de dezembro de 2024**. Em 2020, Aleksandr Reimers demite o governo de Sergei Tamm, suspende a Assembleia e passa a governar diretamente por decretos. Em 2023 assume também a presidência do Conselho de Ministros; em 2024 a eleição presidencial não é realizada e seu mandato é prorrogado pelo Conselho de Defesa. O país mantém integralmente as fronteiras herdadas da RSS, neutralidade militar formal e forte relação econômica com a Federação Russa, sem bases russas permanentes.
 12. A configuração territorial soviética madura e a fronteira de facto mantida após 1991 correspondem integralmente, em equivalência moderna, a **Valga County + Võru County + Valkas novads + Alūksnes novads**. Põlva, Smiltene, Valmiera, Gulbene, Cēsis e demais unidades não aprovadas permanecem fora.
 13. Nos mapas do usuário, salvo indicação contrária, **cada polígono colorido representa uma unidade administrativa inteira**.
 14. Os documentos históricos devem seguir `regras/estilo-historico.md`: **sem metanarração, sem explicar ao leitor decisões de worldbuilding, sem slogans autorais repetitivos, sem prosa autocorretiva e sem vícios de linguagem típicos de resposta de IA**. Justificativas editoriais ficam em `auditorias/`, `decisoes/` e `retcons/`, não misturadas à cronologia.
@@ -44,6 +44,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `historia/2005-2009.md` — institucionalização do regime Reimers, Constituição de 2005, eleição presidencial de 2006, saída do Conselho da Europa, crise com a Estônia em 2007, reconhecimento de Abkházia e Ossétia do Sul, tratado com Moscou e recessão de 2009.
 - `historia/2010-2014.md` — recuperação pós-crise, eleição legislativa de 2011, censo, reeleição de Reimers em 2012, acordos econômicos com Moscou sem adesão aduaneira plena e reconhecimento da Crimeia como parte da Rússia em 2014.
 - `historia/2015-2019.md` — impacto da recessão russa e sanções, presença avançada da OTAN na Estônia e Letônia, Zapad 2017, nova reeleição de Reimers em 2018, desgaste da Ordem Republicana e chegada de Sergei Tamm ao governo.
+- `historia/2020-2024.md` — pandemia, dissolução do governo de Tamm, suspensão prolongada da Assembleia, administração presidencial direta, invasão da Ucrânia, isolamento financeiro e prorrogação do mandato de Reimers em 2024.
 
 ### Resumos
 - `resumos/1920-1924.md`
@@ -66,6 +67,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `resumos/2005-2009.md`
 - `resumos/2010-2014.md`
 - `resumos/2015-2019.md`
+- `resumos/2020-2024.md`
 
 ### Personagens
 - `personagens/1920-1924.md`
@@ -88,11 +90,13 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `personagens/2005-2009.md`
 - `personagens/2010-2014.md`
 - `personagens/2015-2019.md`
+- `personagens/2020-2024.md`
 
 ### Decisões territoriais e de transição
 - `decisoes/territorio-extra-opcoes.md` — decisão canônica sobre Võru, Valkas e Alūksne e equivalência da fronteira soviética madura.
 - `decisoes/transicao-1990-1994.md` — independência, manutenção das fronteiras de facto, cidadania, retirada russa e continuidade política de Olev Saar.
 - `decisoes/ponto-de-decisao-2004.md` — decisão canônica do golpe de Aleksandr Reimers, neutralidade militar, manutenção integral das fronteiras e aproximação com a Rússia.
+- `decisoes/controle-direto-2020-2024.md` — dissolução do gabinete de Sergei Tamm, suspensão da Assembleia, administração direta de Reimers e prorrogação presidencial de 2024.
 
 ### Regras, auditorias e retcons
 - `regras/estilo-historico.md` — padrão obrigatório de prosa histórica e lista de vícios a evitar.
@@ -129,3 +133,4 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - 2011: pouco mais de 108 mil
 - 2014: ~104–106 mil
 - 2019: ~101–103 mil
+- 2024: ~96–98 mil
