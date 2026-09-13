@@ -2,7 +2,7 @@
 
 Status: **cânone ativo do Principado de Sintica**.
 
-Este documento desenvolve a cultura cortesã da Casa de Orbelos ao longo do século XX e fixa apenas os fatos mínimos já decididos sobre o soberano de 2025. Nome, aparência, personalidade, Habilidade, política pessoal, casamento, educação, relação com a família e demais características do soberano de 2025 permanecem reservados para decisão posterior do autor.
+Este documento desenvolve a cultura cortesã da Casa de Orbelos ao longo do século XX e fixa apenas os fatos mínimos já decididos sobre o soberano contemporâneo. Nome, aparência, personalidade, Habilidade, política pessoal, casamento, educação, relação com a família e demais características do soberano permanecem reservados para decisão posterior do autor.
 
 ## 1. Princípio estético e histórico
 
@@ -135,7 +135,7 @@ Essa estética é uma característica cultural real de Sintica, não uma indica�
 A independência recente transforma hospitalidade em política externa. O Palácio Principesco e o Grand Hotel Sintica tornam-se vitrines do país. A família Orbelos oferece festas frequentes e recebe estrangeiros em escala elevada para um Estado tão pequeno.
 
 ### Períodos de guerra e emergência
-Grandes festividades são reduzidas ou suspensas quando segurança, guerra, luto dinástico ou crise econômica tornam celebrações inadequadas. A cronologia exata da Segunda Guerra Mundial e da posição internacional de Sintica permanece para desenvolvimento posterior.
+Grandes festividades são reduzidas ou suspensas quando segurança, guerra, luto dinástico ou crise econômica tornam celebrações inadequadas.
 
 ### Pós-guerra
 A corte retoma gradualmente as funções sociais. O caráter muda: menos aristocracia fechada, mais diplomacia, cultura, beneficência e recepções de Estado. Alguns bailes tradicionais sobrevivem, outros são abolidos e restaurados posteriormente.
@@ -146,20 +146,21 @@ O Grand Hotel Sintica alterna fases de modernização e perda de brilho. Certos 
 ### Final do século XX e início do XXI
 A estética histórica da monarquia torna-se também ativo turístico. O Estado preserva o Palácio, arquivos, uniformes, carruagens e salões do hotel, mas evita transformar a família soberana em atração puramente cenográfica.
 
-## 9. Soberano de 2025 — fatos reservados e fatos fixos
+## 9. Soberano contemporâneo — fatos reservados e fatos fixos
 
-O soberano que reina em **2025** será definido pessoalmente pelo autor.
+O soberano que ocupa o trono no **presente narrativo de 2014** e continua reinando em 2025 será definido pessoalmente pelo autor.
 
 ### Fatos já fixados
 
-- nasceu em **2001**;
+- nasceu em **1996**;
 - subiu ao trono aos **12 anos**;
 - sua mãe exerceu a **Regência** durante sua menoridade;
 - a maioridade constitucional do soberano ocorre aos **18 anos**, quando termina a regência ordinária;
-- em 2025 o soberano tem **24 anos**;
+- em **2014 completa 18 anos** e passa ao exercício pessoal pleno da Coroa;
+- em **2025 completa 29 anos**;
 - ele pertence à Casa de Orbelos e reina dentro da continuidade da monarquia semi-constitucional de Sintica.
 
-Como a data exata de nascimento ainda não foi definida, a data exata da subida ao trono permanece entre **2013 e 2014**, conforme a relação entre aniversário e sucessão.
+Como a data exata de nascimento ainda não foi definida, a data exata da subida ao trono permanece em **2008 ou 2009**, conforme a relação entre aniversário e sucessão.
 
 ### Elementos deliberadamente não definidos
 
@@ -185,8 +186,8 @@ O título constitucional continua sendo **Príncipe Soberano de Sintica** enquan
 
 A Constituição moderna prevê que, quando um soberano menor sucede ao trono, o exercício das prerrogativas passa a um regente ou conselho de regência nos termos da lei dinástica.
 
-No caso do soberano nascido em 2001, sua mãe é reconhecida como **Princesa-Regente** e exerce as funções constitucionais da Coroa até a maioridade do filho.
+No caso do soberano nascido em 1996, sua mãe é reconhecida como **Princesa-Regente** e exerce as funções constitucionais da Coroa até a maioridade do filho.
 
-A regência não transforma a mãe em soberana reinante por direito próprio e não interrompe o número de anos de reinado do monarca menor: juridicamente, o reinado começa aos 12 anos; o exercício pessoal pleno da Coroa começa aos 18.
+A regência não transforma a mãe em soberana reinante por direito próprio e não interrompe o número de anos de reinado do monarca menor: juridicamente, o reinado começa aos 12 anos; o exercício pessoal pleno da Coroa começa aos 18, em 2014.
 
 A personalidade, origem, nome e atuação política da mãe regente permanecem abertos para decisão posterior do autor.
