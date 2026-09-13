@@ -53,13 +53,13 @@ O chefe da Casa na fundação do Estado é **Teodor Orbelos**, nascido em **1871
 
 A partir da independência efetiva, ele reina como **Teodor I, Príncipe Soberano de Sintica**.
 
-Teodor não é um conquistador militar nem o líder de uma revolta nacional de massas. Sua força política está na antiguidade da Casa, no patrimônio, nas redes matrimoniais e na capacidade de negociar entre comunidades e administrações sucessivas. Sua candidatura de 1919 permite que o novo Estado possua uma dinastia regional própria em vez de importar um príncipe estrangeiro.
+Teodor é casado desde 1895 com **Maria Economou (1876–1952)**, de família aromana urbana e mercantil da região de Bitola. O casal possui quatro filhos vivos em 1919: **Aleksandar (1896)**, Príncipe Herdeiro; **Sofia (1898)**; **Nikola (1901)**; e **Katerina (1905)**.
 
-Isso não significa que a família já governasse um Estado soberano antes de 1919. O título, os direitos fundiários, os privilégios e a posição jurídica exata dos Orbelos sob as administrações otomana e búlgara serão desenvolvidos com cuidado histórico posterior.
+Teodor não possui Habilidade conhecida. Aleksandar possui `Holdfast`; Katerina possui `Threadline`. Outros parentes da Casa também incluem pessoas com e sem Habilidades, sem qualquer regra dinástica de transmissão ou direito sucessório baseado em poder extraordinário.
 
-A família desenvolveu ao longo de muitas gerações conexões matrimoniais, políticas e patrimoniais com diferentes comunidades que participaram da formação do país, incluindo elementos gregos, búlgaros, aromanos/romenos, otomanos/turcos, húngaros e austríacos/germanófonos. Essas conexões devem surgir organicamente da cronologia, e não como uma lista artificial de origens.
+A genealogia completa canônica da Casa na fundação de Sintica está em `genealogia-orbelos-1919.md`. O documento sobre Teodor I e a ordem constitucional inicial está em `casa-de-orbelos-e-constituicao-1920.md`.
 
-O documento detalhado sobre Teodor I e a ordem constitucional inicial é `casa-de-orbelos-e-constituicao-1920.md`.
+A família acumulou ao longo das gerações conexões locais/eslavas, gregas, aromanas, húngaras e austríacas/germanófonas. Um ramo cadete convertido ao Islã no início do século XIX preserva parentesco otomano/turco. Essas conexões surgem de casamentos, migrações e ramos reais da árvore, não de uma distribuição artificial de origens.
 
 ## Ordem constitucional
 
@@ -108,7 +108,6 @@ Quando houver diferença de nível de detalhe, os dois arquivos não devem se co
 
 ## Próximos elementos a desenvolver
 
-- pais, consorte e descendência imediata de Teodor I;
 - patrocinadores diplomáticos da solução sinticana em Paris/Neuilly;
 - texto artigo por artigo da primeira constituição;
 - fronteira e demarcação de 1920;
