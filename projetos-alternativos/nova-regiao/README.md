@@ -83,18 +83,19 @@ Nos anos de maior prosperidade, a Coroa organiza ou patrocina aproximadamente oi
 
 O desenvolvimento detalhado está em `corte-vida-social-e-monarquia-moderna.md`.
 
-## Soberano de 2025 — limites de autoria
+## Soberano contemporâneo — limites de autoria
 
-O soberano que reina em **2025** será definido pessoalmente pelo autor. Somente os seguintes fatos estão fixados:
+O soberano que ocupa o trono no **presente narrativo de 2014** e continua reinando em 2025 será definido pessoalmente pelo autor. Somente os seguintes fatos estão fixados:
 
-- nasceu em **2001**;
+- nasceu em **1996**;
 - sucedeu ao trono aos **12 anos**;
 - sua mãe exerceu a **Regência** durante sua menoridade;
 - a maioridade constitucional para o exercício pessoal pleno da Coroa ocorre aos **18 anos**;
-- em 2025 tem **24 anos**;
+- em **2014 completa 18 anos**, encerrando a regência ordinária e iniciando o exercício pessoal pleno da Coroa;
+- em **2025 completa 29 anos**;
 - pertence à Casa de Orbelos.
 
-A data exata de sucessão permanece em **2013 ou 2014**, conforme a futura data de nascimento. Nome, aparência, Habilidade, personalidade, predecessor, causa da sucessão, irmãos, educação, casamento, política pessoal e relação com a mãe permanecem deliberadamente abertos.
+Como a data exata de nascimento ainda não foi definida, a sucessão ocorreu em **2008 ou 2009**, conforme a relação entre aniversário e data de acesso ao trono. Nome, aparência, Habilidade, personalidade, predecessor, causa da sucessão, irmãos, educação, casamento, política pessoal e relação com a mãe permanecem deliberadamente abertos.
 
 Enquanto não houver decisão contrária, o título constitucional continua sendo **Príncipe Soberano de Sintica**.
 
@@ -122,7 +123,7 @@ Sintica também existe no cânone de **The Extraordinary World** (`MrRavier/Hero
 Toda decisão estrutural sobre Sintica que afete território, história, regime, dinastia, população, línguas, instituições nacionais ou tradição heroica deve ser registrada nos **dois repositórios**:
 
 1. `MrRavier/Pais-ficticio-ravier`, como fonte detalhada da história nacional;
-2. `MrRavier/Hero-universe-ravier`, como fonte de integração de Sintica ao universo de heróis.
+2. `MrRavier/Hero-universe-ravier`, como fonte de integração de Sintica ao universo compartilhado.
 
 Quando houver diferença de nível de detalhe, os dois arquivos não devem se contradizer: o repositório do país pode conter a cronologia completa, enquanto o repositório de heróis registra apenas os fatos necessários ao universo compartilhado.
 
