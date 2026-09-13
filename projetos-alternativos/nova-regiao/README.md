@@ -71,6 +71,33 @@ Os ministros respondem pelos atos de governo e o sistema conhece contrassinado m
 
 Ao longo do século XX, reformas fortalecem a responsabilidade parlamentar do governo e limitam algumas prerrogativas, mas Sintica conserva no período moderno uma **Coroa com poderes constitucionais próprios**. O desenho atual detalhado será fixado em etapa posterior.
 
+## Corte, festas e identidade visual
+
+Ao longo do século XX, a Casa de Orbelos torna-se conhecida por uma vida social de corte muito ativa: bailes de inverno, recepções diplomáticas, concertos, jantares, festas de verão e galas beneficentes.
+
+Entre 1921 e 1927 a antiga residência da família é ampliada como **Palácio Principesco**. Em **1928** é inaugurado o **Grand Hotel Sintica**, hotel privado sob patronagem da Casa, que se torna centro social, diplomático e cultural do país.
+
+A estética pública do principado combina ecletismo centro-europeu e balcânico, neo-barroco, Secession e Art Déco. O contraste entre um grande hotel, uniformes, salões e etiqueta formal e a escala diminuta e rural do país torna-se uma das marcas visuais de Sintica.
+
+Nos anos de maior prosperidade, a Coroa organiza ou patrocina aproximadamente oito a quinze grandes eventos sociais por ano, além de recepções menores. Habilidades extraordinárias são integradas ao protocolo de segurança e etiqueta sem determinar precedência social.
+
+O desenvolvimento detalhado está em `corte-vida-social-e-monarquia-moderna.md`.
+
+## Soberano de 2025 — limites de autoria
+
+O soberano que reina em **2025** será definido pessoalmente pelo autor. Somente os seguintes fatos estão fixados:
+
+- nasceu em **2001**;
+- sucedeu ao trono aos **12 anos**;
+- sua mãe exerceu a **Regência** durante sua menoridade;
+- a maioridade constitucional para o exercício pessoal pleno da Coroa ocorre aos **18 anos**;
+- em 2025 tem **24 anos**;
+- pertence à Casa de Orbelos.
+
+A data exata de sucessão permanece em **2013 ou 2014**, conforme a futura data de nascimento. Nome, aparência, Habilidade, personalidade, predecessor, causa da sucessão, irmãos, educação, casamento, política pessoal e relação com a mãe permanecem deliberadamente abertos.
+
+Enquanto não houver decisão contrária, o título constitucional continua sendo **Príncipe Soberano de Sintica**.
+
 ## Regra permanente de nomenclatura histórica
 
 Os nomes de personagens, famílias, instituições, títulos e autoridades devem ser historicamente plausíveis para **época, língua, religião, origem regional e classe social**.
