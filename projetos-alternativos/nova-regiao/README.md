@@ -40,7 +40,7 @@ A Casa de Orbelos é anterior ao Estado moderno. Sua existência aristocrática,
 
 Filhos:
 
-- **Aleksandar Orbelos (1896– )**;
+- **Aleksandar Orbelos (1896–1982)**;
 - **Sofia Orbelos (1898– )**;
 - **Nikola Orbelos (1901– )**;
 - **Katerina Orbelos (1905– )**.
@@ -61,7 +61,17 @@ Filhos:
 
 Nenhuma Habilidade está canonizada para esses três neste estágio.
 
-Em **1980**, Aleksandar I ainda reina, aos 84 anos, sem regência. O filho Teodor assume grande parte da representação pública, mas a cadeia sucessória posterior permanece aberta.
+Aleksandar I morre em **1982**, aos 86 anos.
+
+### Teodor II
+
+O herdeiro sucede em 1982 como **Teodor II Orbelos, Príncipe Soberano de Sintica**.
+
+Teodor II nasceu em **1925** e chega ao trono como soberano experiente, depois de décadas de representação pública. Nenhuma Habilidade está canonizada para ele neste estágio.
+
+Em **2000**, Teodor II ainda reina, aos 75 anos.
+
+A consorte, os filhos e a ligação genealógica específica entre Teodor II e o soberano nascido em 1996 permanecem deliberadamente abertas, porque pertencem à linhagem contemporânea reservada ao autor.
 
 A genealogia detalhada da Casa na fundação está em `genealogia-orbelos-1919.md`.
 
@@ -87,6 +97,9 @@ A neutralidade é política permanente do Estado desde o entreguerras e é reafi
 - Sintica não integra alianças militares permanentes.
 - Em **1975**, na continuidade fictícia, torna-se o **36º signatário** do Ato Final de Helsinki.
 - Em **1978**, ingressa no **Conselho da Europa**, preservando neutralidade militar e reforçando Estado de direito e direitos fundamentais.
+- Em **1990**, ingressa nas **Nações Unidas**, seguindo o movimento histórico de maior integração multilateral de pequenos Estados europeus no fim da Guerra Fria.
+
+A dissolução da Iugoslávia muda profundamente o entorno regional. Em **1992**, depois do reconhecimento inicial pela Bulgária, Sintica reconhece a República da Macedônia e estabelece relações bilaterais sem reivindicações territoriais.
 
 ## Corte, Grand Hotel e identidade visual
 
@@ -95,6 +108,8 @@ A Casa de Orbelos torna-se conhecida por bailes, recepções, concertos, jantare
 Entre 1921 e 1927 a residência principal dos Orbelos é ampliada como **Palácio Principesco**. Em **1928** abre o **Grand Hotel Sintica**, hotel privado sob patronagem da Casa.
 
 A estética pública combina neo-barroco, ecletismo centro-europeu e balcânico, Secession e Art Déco. O hotel acumula também reformas dos anos 1950–70: elevadores, instalações modernas, carpetes sintéticos, iluminação embutida e falsos tetos. A coexistência entre luxo antigo e modernizações posteriores é canônica.
+
+Uma campanha de restauração iniciada no fim dos anos 1980 recupera elementos históricos sem apagar completamente as intervenções posteriores. Ao final dos anos 1990 o Grand Hotel volta a ser um dos principais símbolos turísticos do país.
 
 O desenvolvimento detalhado está em `corte-vida-social-e-monarquia-moderna.md`.
 
@@ -110,7 +125,9 @@ Marcos principais:
 - 1954: licenciamento civil de atividade heroica/protetiva;
 - 1963: missão sinticana de socorro após o terremoto de Skopje;
 - 1969: Código de Responsabilidade Extraordinária;
-- 1976–77: regras sobre patrocínio, publicidade e comercialização de heróis.
+- 1976–77: regras sobre patrocínio, publicidade e comercialização de heróis;
+- **1984:** criação da **Diretoria de Proteção Extraordinária**, responsável por licenças, seguros, incidentes, equipamentos e coordenação institucional;
+- anos 1990: informatização progressiva de licenças e consolidação de regras de privacidade, missões internacionais e neutralidade profissional.
 
 Sintica regula **atividade profissional e risco**, não a simples existência de uma Habilidade.
 
@@ -130,7 +147,7 @@ Somente os seguintes fatos estão fixados:
 
 A sucessão ocorreu em **2008 ou 2009**, dependendo da futura data exata de nascimento e da data de acesso ao trono.
 
-Permanecem deliberadamente abertos: nome, aparência, Habilidade, personalidade, predecessor, causa da sucessão, irmãos, educação, casamento, política pessoal, popularidade e relação com a mãe.
+Permanecem deliberadamente abertos: nome, aparência, Habilidade, personalidade, pais, irmãos, posição sucessória ao nascer, predecessor, causa da sucessão, educação, casamento, política pessoal, popularidade e relação com a mãe.
 
 Enquanto não houver retcon explícito, o título constitucional continua sendo **Príncipe Soberano de Sintica**.
 
@@ -155,11 +172,13 @@ Toda decisão estrutural sobre Sintica que afete território, história, regime,
 - `cronologia-1940-1945.md`
 - `cronologia-1946-1960.md`
 - `cronologia-1961-1980.md`
+- `cronologia-1981-2000.md`
 
 ## Elementos ainda abertos
 
-- cadeia completa de soberanos depois de 1980 até o príncipe nascido em 1996;
-- identidade do predecessor do soberano contemporâneo;
+- cadeia sucessória depois de Teodor II até a ascensão de 2008/09;
+- identidade do predecessor direto do soberano contemporâneo;
+- consorte e descendência detalhada de Teodor II;
 - demografia histórica detalhada;
 - línguas oficiais e níveis de cooficialidade;
 - assentamentos e formas multilíngues definitivas;
