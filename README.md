@@ -36,6 +36,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `historia/1965-1969.md` — reformas econômicas, mídia republicana, Primavera de Praga, prisão de Aksel Parts e sucessão Kask–Vītols.
 - `historia/1970-1974.md` — estagnação inicial, mercado informal, folhas datilografadas clandestinas, buscas do KGB e ascensão de Jānis Kalējs.
 - `historia/1975-1979.md` — Helsinque, carta dos sete, repressão seletiva, Constituição de 1978, censo corrigido e início do Afeganistão.
+- `historia/1980-1984.md` — ecos dos protestos estonianos de 1980, crise polonesa, estagnação, campanha disciplinar de Andropov, corrupção na construção e primeiros efeitos sociais maiores do Afeganistão.
 
 ### Resumos
 - `resumos/1920-1924.md`
@@ -50,6 +51,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `resumos/1965-1969.md`
 - `resumos/1970-1974.md`
 - `resumos/1975-1979.md`
+- `resumos/1980-1984.md`
 
 ### Personagens
 - `personagens/1920-1924.md`
@@ -64,6 +66,7 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - `personagens/1965-1969.md`
 - `personagens/1970-1974.md`
 - `personagens/1975-1979.md`
+- `personagens/1980-1984.md`
 
 ### Decisões territoriais
 - `decisoes/territorio-extra-opcoes.md` — decisão canônica sobre Võru, Valkas e Alūksne e equivalência da fronteira soviética madura.
@@ -93,3 +96,4 @@ Repositório canônico do projeto de história alternativa iniciado com a criaç
 - 1969: ~121 mil
 - 1974: ~124 mil
 - 1979: ~126 mil
+- 1984: ~127 mil
