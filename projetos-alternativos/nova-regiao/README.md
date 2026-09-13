@@ -55,25 +55,40 @@ Aleksandar é casado desde 1923 com **Eleni Sideri (1900–1977)**, de família 
 
 Filhos:
 
-- **Teodor Orbelos (1925– )**, Príncipe Herdeiro desde 1962;
+- **Teodor Orbelos (1925–2002)**, Príncipe Herdeiro desde 1962;
 - **Maria Orbelos (1928– )**;
 - **Konstantin Orbelos (1932– )**.
-
-Nenhuma Habilidade está canonizada para esses três neste estágio.
 
 Aleksandar I morre em **1982**, aos 86 anos.
 
 ### Teodor II
 
-O herdeiro sucede em 1982 como **Teodor II Orbelos, Príncipe Soberano de Sintica**.
+O herdeiro sucede em 1982 como **Teodor II Orbelos, Príncipe Soberano de Sintica** e reina até **2002**.
 
-Teodor II nasceu em **1925** e chega ao trono como soberano experiente, depois de décadas de representação pública. Nenhuma Habilidade está canonizada para ele neste estágio.
+Teodor II casa-se em 1954 com **Ana Rosetti (1931–2011)**, personagem fictícia de um ramo cadete fictício da histórica família romena Rosetti. Ana nasceu em Bucareste e cresceu posteriormente entre Europa ocidental e central após a saída da família da Romênia comunista.
 
-Em **2000**, Teodor II ainda reina, aos 75 anos.
+Filhos:
 
-A consorte, os filhos e a ligação genealógica específica entre Teodor II e o soberano nascido em 1996 permanecem deliberadamente abertas, porque pertencem à linhagem contemporânea reservada ao autor.
+- **Aleksandar Orbelos (1957–2008)**;
+- **Sofia Orbelos (1960– )**;
+- **Nikola Orbelos (1964– )**.
 
-A genealogia detalhada da Casa na fundação está em `genealogia-orbelos-1919.md`.
+Teodor II morre em **6 de abril de 2002**.
+
+### Aleksandar II
+
+O filho mais velho sucede em 2002 como **Aleksandar II Orbelos, Príncipe Soberano de Sintica**.
+
+Aleksandar II casa-se em **1994** com **Katalin Teleki (1968– )**, personagem fictícia de um ramo cadete fictício da histórica família aristocrática húngaro-transilvana Teleki de Szék. Katalin nasceu em Viena, estudou direito e administração pública e trabalhou em projetos culturais e patrimoniais antes do casamento.
+
+Filhos:
+
+- **o soberano contemporâneo**, nascido em **4 de janeiro de 1996**;
+- **Maria Ilona Orbelos**, nascida em **17 de agosto de 1999**.
+
+Aleksandar II morre de câncer pancreático em **18 de setembro de 2008**, aos 51 anos. Seu filho de 12 anos sucede imediatamente.
+
+A genealogia da fundação está em `genealogia-orbelos-1919.md`; a linhagem moderna detalhada está em `familia-orbelos-contemporanea.md`.
 
 ## Ordem constitucional
 
@@ -87,6 +102,8 @@ A reforma de **1964** estabelece a base moderna do regime:
 - tratados relevantes dependem de ratificação parlamentar;
 - poderes emergenciais são temporários e sujeitos a contrassinado e ratificação;
 - o Príncipe conserva comando supremo, funções próprias de política externa e possibilidade de solicitar controle de constitucionalidade.
+
+Em **1993**, Sintica adota **primogenitura absoluta** para as gerações futuras da Casa de Orbelos. A ordem sucessória passa a depender da primogenitura sem preferência de sexo, sem alterar retroativamente reinados já concluídos.
 
 Sintica não evolui nem para absolutismo nem para uma monarquia inteiramente decorativa.
 
@@ -131,23 +148,24 @@ Marcos principais:
 
 Sintica regula **atividade profissional e risco**, não a simples existência de uma Habilidade.
 
-## Soberano contemporâneo — limites de autoria
+## Soberano contemporâneo — família e limites de autoria
 
-O soberano que ocupa o trono no **presente narrativo de 2014** e continua reinando em 2025 será definido pessoalmente pelo autor.
+O soberano do **presente narrativo de 2014** continua sendo parcialmente reservado ao autor, mas seu quadro familiar e sucessório está agora definido.
 
-Somente os seguintes fatos estão fixados:
+Fatos fixados:
 
-- nasceu em **1996**;
-- sucedeu ao trono aos **12 anos**;
-- sua mãe exerceu a **Regência** durante a menoridade;
-- a maioridade constitucional ocorre aos **18 anos**;
-- em **2014 completa 18 anos**, encerrando a regência ordinária;
+- nasceu em **4 de janeiro de 1996**;
+- é filho de **Aleksandar II Orbelos** e **Katalin Teleki**;
+- é o primogênito do casal;
+- tem uma irmã mais nova, **Princesa Maria Ilona Orbelos (1999– )**;
+- torna-se Príncipe Herdeiro em 2002;
+- sucede ao pai aos **12 anos**, em **18 de setembro de 2008**;
+- sua mãe exerce a **Regência** de 18 de setembro de 2008 a 4 de janeiro de 2014;
+- completa **18 anos em 4 de janeiro de 2014**, encerrando a regência ordinária e assumindo pessoalmente as prerrogativas da Coroa;
 - em **2025 completa 29 anos**;
-- pertence à Casa de Orbelos.
+- Maria Ilona é herdeira presumptiva enquanto o soberano não tiver descendência própria.
 
-A sucessão ocorreu em **2008 ou 2009**, dependendo da futura data exata de nascimento e da data de acesso ao trono.
-
-Permanecem deliberadamente abertos: nome, aparência, Habilidade, personalidade, pais, irmãos, posição sucessória ao nascer, predecessor, causa da sucessão, educação, casamento, política pessoal, popularidade e relação com a mãe.
+Permanecem deliberadamente abertos: **nome, aparência, Habilidade, personalidade, educação detalhada, opiniões políticas, popularidade, casamento ou vida amorosa, relação emocional com a família e estilo pessoal de governo**.
 
 Enquanto não houver retcon explícito, o título constitucional continua sendo **Príncipe Soberano de Sintica**.
 
@@ -176,9 +194,8 @@ Toda decisão estrutural sobre Sintica que afete território, história, regime,
 
 ## Elementos ainda abertos
 
-- cadeia sucessória depois de Teodor II até a ascensão de 2008/09;
-- identidade do predecessor direto do soberano contemporâneo;
-- consorte e descendência detalhada de Teodor II;
+- cronologia política detalhada de 2001–2014;
+- atuação específica da Regência de Katalin;
 - demografia histórica detalhada;
 - línguas oficiais e níveis de cooficialidade;
 - assentamentos e formas multilíngues definitivas;
