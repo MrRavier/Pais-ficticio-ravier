@@ -2,9 +2,11 @@
 
 Status: **cânone ativo do Principado de Sintica**.
 
-Este documento registra apenas as Habilidades/manifestações que já foram demonstradas pelo Príncipe Soberano contemporâneo e que, no presente narrativo de **2014**, podem ser tratadas como certas em nível de cânone.
+Este documento registra as Habilidades/manifestações já demonstradas pelo Príncipe Soberano contemporâneo e que, no presente narrativo de **2014**, podem ser tratadas como certas em nível de cânone.
 
 A lista é **expressamente não exaustiva**: existem outras Habilidades já demonstradas que ainda não foram reenunciadas pelo autor nesta etapa e, portanto, não devem ser inventadas por preenchimento automático.
+
+A origem estrutural deste conjunto está detalhada em `linhagem-habilidades-orbelos.md`.
 
 ## 1. Lista confirmada
 
@@ -19,26 +21,30 @@ As seguintes Habilidades/manifestações estão confirmadas:
 7. **Ossos duros**;
 8. **Inteligência**.
 
-## 2. Regra de interpretação
+## 2. Origem ancestral confirmada
 
-Os nomes acima registram aquilo que está confirmado, mas **não fecham automaticamente todas as mecânicas**.
+Essas capacidades **não surgiram originalmente no Príncipe contemporâneo**.
 
-Não se deve inferir, sem nova decisão do autor:
+Membros diferentes da Casa de Orbelos, em séculos anteriores, já haviam manifestado essas mesmas Habilidades. O Príncipe é um caso excepcional de **convergência hereditária**, no qual várias capacidades ancestrais reaparecem juntas.
 
-- alcance máximo;
-- custo energético;
-- duração;
-- velocidade;
-- quantidade produzida;
-- resistência máxima;
-- condições de ativação;
-- imunidades;
-- capacidade de afetar terceiros;
-- se alguma dessas manifestações é uma Habilidade independente ou uma faceta de uma estrutura maior.
+O mecanismo que tornou isso possível é **O Sangue Mais Forte**: além de conferir físico superior ao portador, essa Habilidade possui uma propriedade hereditária que o portador original desconhecia, permitindo que Habilidades da linhagem fossem transmitidas e acumuladas através das gerações, algumas em estado ativo e outras dormentes.
 
-Em especial, **O Sangue Mais Forte** não deve ser usado para deduzir automaticamente herança, cópia, absorção, combinação ou superioridade sobre outras linhagens enquanto sua mecânica específica não for descrita pelo autor.
+Isso não funciona como roubo, cópia consciente ou absorção deliberada de Habilidades.
 
-## 3. Transporte de mente
+## 3. Mecânicas ancestrais mínimas já fixadas
+
+- **Ossos duros:** resistência e força estrutural extraordinárias do esqueleto.
+- **Tinta preta:** produção pela boca e pelas mãos de substância negra semelhante à tinta de cefalópodes, com controle sobre o material expelido.
+- **Teleporte:** deslocamento para lugares lembrados; também pode usar pinturas, fotografias, imagens e outras representações visuais como referência de destino.
+- **O Sangue Mais Forte:** físico superior e transmissão/acúmulo hereditário inconsciente de Habilidades da linhagem.
+- **Oxigênio sólido:** solidificação extraordinária de oxigênio sem depender das condições físicas normais.
+- **Éter:** controle de uma manifestação historicamente interpretada como éter; o ancestral portador foi lembrado como grande mago, bruxo ou feiticeiro.
+- **Transporte de mente:** transporte da própria mente para outra pessoa.
+- **Inteligência:** capacidade intelectual extraordinariamente elevada.
+
+Os limites quantitativos e condições precisas de cada uma ainda permanecem abertos.
+
+## 4. Transporte de mente
 
 **Transporte de mente** possui um estatuto especial.
 
@@ -47,32 +53,39 @@ Em especial, **O Sangue Mais Forte** não deve ser usado para deduzir automatica
 - qualquer manifestação anterior pode ter ocorrido sem que ele a reconhecesse corretamente;
 - não se deve tratar essa capacidade como conhecimento público, médico ou governamental automático sem uma cena ou decisão posterior que o estabeleça.
 
-## 4. Conhecimento no mundo x certeza de cânone
+## 5. Conhecimento no mundo x certeza de cânone
 
 `Confirmado em cânone` não significa necessariamente `conhecido por toda a população de Sintica`.
 
 As Habilidades acima foram demonstradas o suficiente para serem tratadas como reais pela continuidade, mas permanece aberto quem testemunhou cada manifestação, quais constam de prontuários oficiais, quais são conhecidas pela família e quais são informação pública.
 
-A única exceção já explicitamente fixada é **Transporte de mente**, desconhecida pelo próprio Príncipe.
+A única assimetria de conhecimento já explicitamente fixada é **Transporte de mente**, desconhecida pelo próprio Príncipe.
 
-## 5. Caso extraordinário, não regra dinástica
+## 6. A Casa de Orbelos não é uniforme
 
-O Príncipe contemporâneo é um caso excepcional de **pluralidade de Habilidades/manifestações**.
+A descoberta da transmissão hereditária exige um ajuste importante: a Casa de Orbelos possui de fato uma **herança extraordinária acumulativa**, mas isso não significa que todos os membros manifestem os mesmos poderes, que todos sejam extraordinários ou que Habilidades concedam qualquer direito ao trono.
 
-Isso não retcona a Casa de Orbelos como uma `dinastia de superpoderes`, não implica que seus parentes possuam o mesmo conjunto de capacidades e não altera a regra histórica de que Habilidades não concedem direito sucessório.
+Algumas capacidades permanecem dormentes por gerações. Outras aparecem isoladamente.
 
-Os casos anteriores da família continuam individualizados: Teodor I não possuía Habilidade conhecida; Aleksandar I tinha `Holdfast`; Katerina tinha `Threadline`; Boris tinha `Latch`; Eleni tinha `Flame Snuff`.
+Casos já documentados que continuam válidos incluem:
 
-## 6. Elementos ainda abertos
+- Eleni Orbelos — `Flame Snuff`;
+- Aleksandar I — `Holdfast`;
+- Katerina Orbelos — `Threadline`;
+- Boris Orbelos — `Latch`.
+
+Não está estabelecido que o Príncipe manifeste todas as Habilidades que algum Orbelos já possuiu; somente as demonstradas por ele podem ser tratadas como ativas.
+
+## 7. Elementos ainda abertos
 
 Continuam em aberto:
 
 - o nome do soberano;
-- a mecânica completa de cada Habilidade;
-- a origem exata da pluralidade de Habilidades;
+- a mecânica completa e os limites quantitativos de cada Habilidade;
 - o grau de domínio de cada uma em 2014;
 - quais Habilidades são públicas e quais são sigilosas;
 - as demais Habilidades já demonstradas, mas ainda não reenunciadas pelo autor;
-- qualquer relação entre essas capacidades e ancestrais específicos da Casa.
+- a identidade e datação exata dos antigos portadores dessas oito capacidades;
+- regras finas de dormência, ativação e acúmulo hereditário.
 
-Este documento supera notas anteriores que diziam que a existência ou ausência de Habilidades do Príncipe contemporâneo permanecia totalmente em aberto.
+Este documento supera notas anteriores que tratavam a origem da pluralidade de Habilidades do Príncipe como totalmente desconhecida.
