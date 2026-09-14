@@ -6,7 +6,7 @@ Este arquivo fixa o retorno de Mihail I após aproximadamente um ano acadêmico 
 
 ## 1. Data e rota
 
-Mihail deixa Vancouver no fim de junho de 2015, após encerrar módulos, avaliações e debriefings no Pacific Response.
+Mihail deixa Vancouver em **20 de junho de 2015**, após encerrar módulos, avaliações e debriefings no Pacific Response.
 
 A rota adotada é comercial e discreta, não um voo de Estado exclusivo:
 
@@ -45,6 +45,8 @@ Mihail não quer desfile triunfal. Ainda assim, o retorno é público e pequenos
 
 A recepção institucional é curta: guarda de honra reduzida, primeiro-ministro, presidente da Assembleia, altos funcionários e representantes da Casa.
 
+Mihail faz apenas uma declaração breve de agradecimento, sem discurso triunfal, e anuncia que retomará gradualmente suas reuniões e funções institucionais.
+
 ## 6. Nikola
 
 Nikola Orbelos recebe Mihail oficialmente como Regente em exercício.
@@ -53,7 +55,7 @@ Em público, o encontro é formal. Em privado, os dois discutem a decisão que l
 
 Nikola aceita a crítica e a relação entra numa fase mais adulta, sem reconciliação sentimental instantânea.
 
-A primeira quebra de tensão vem com uma piada ruim de Nikola sobre ter recebido o sobrinho de volta 'com quase todas as articulações no lugar', referência a Charnière.
+A primeira quebra de tensão vem com uma piada ruim de Nikola sobre ter recebido o sobrinho de volta "com quase todas as articulações no lugar", referência a Charnière.
 
 ## 7. Maria Ilona
 
@@ -97,18 +99,22 @@ Quando Mihail deixa o Canadá, Mathieu Beaulieu / Charnière permanece sob cust�
 
 ## 12. Projeto de traje
 
-Depois de voltar, Mihail decide financiar **com patrimônio privado próprio** um traje pessoal para operações extraordinárias.
+Depois de voltar, Mihail decide financiar **integralmente com patrimônio privado próprio** um traje pessoal para operações extraordinárias.
 
-A decisão nasce do ano no Pacific Response e da luta contra Charnière.
+A decisão nasce do ano no Pacific Response e da luta contra Charnière. Mihail conclui que roupa civil, trajes formais e equipamento genérico não servem bem a alguém com múltiplas Habilidades de naturezas diferentes.
 
 Elementos já fixos:
 
 - não será pago pelo orçamento público do principado;
+- a Diretoria de Proteção Extraordinária pode testar segurança, mas não é proprietária do projeto;
 - deve suportar Teleporte, Éter, Tinta Preta, Oxigênio Sólido e mobilidade física;
-- priorizará proteção, ergonomia, mobilidade, suporte médico e segurança de Habilidades;
-- especialistas sinticanos em materiais, resposta extraordinária e ergonomia participam do desenvolvimento;
-- métodos e equipamentos observados no Canadá podem servir como referência profissional, mas o Pacific Response não projeta o traje para ele;
-- aparência, cores, máscara, emblemas, grau de blindagem e identidade visual permanecem totalmente abertos ao autor.
+- priorizará proteção contra impacto, fogo, frio, abrasão e riscos químicos/oxidantes;
+- deverá preservar o uso das mãos/palmas para Tinta Preta;
+- deverá permitir remoção rápida em emergência médica;
+- especialistas sinticanos em materiais, resposta extraordinária, medicina e ergonomia participam do desenvolvimento;
+- consultoria externa canadense pode fornecer requisitos de campo e testes, sem que o Pacific Response projete institucionalmente o traje;
+- a primeira fase consiste em protótipos descartáveis/testáveis, não peça cerimonial;
+- aparência, cores, máscara, emblemas, grau de blindagem, materiais exatos e identidade visual permanecem totalmente abertos ao autor.
 
 O traje não concede automaticamente licença profissional de herói e não transforma Mihail numa figura pública mascarada por definição. É equipamento pessoal de campo.
 
@@ -127,7 +133,7 @@ Ele não copia o sistema canadense inteiro.
 
 ## 14. Objetos e hábitos trazidos de Vancouver
 
-Mihail mantém no gabinete privado a fotografia entregue pelo grupo, uma pasta física com anotações e avaliações do Pacific Response e alguns pequenos objetos cotidianos trazidos do Canadá. Ele passa a conservar também um contato mais direto com antigos colegas, sem mediação constante da chancelaria.
+Mihail mantém no gabinete privado a fotografia entregue pelo grupo, uma pasta física com anotações e avaliações do Pacific Response e alguns pequenos objetos cotidianos trazidos do Canadá. Ele passa a conservar também contato mais direto com antigos colegas, sem mediação constante da chancelaria.
 
 O ano canadense passa a funcionar como referência pessoal para o modo como ele pensa liderança, treinamento e responsabilidade.
 
