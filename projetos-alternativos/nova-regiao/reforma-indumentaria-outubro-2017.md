@@ -4,6 +4,20 @@
 
 Em outubro de 2017, após estudos técnicos, consultas às forças de segurança e às chefias militares, Mihail I assina a reforma geral da indumentária estatal de Sintica. A reforma preserva a linguagem visual militar e policial inspirada nas décadas de 1910–1930, mas moderniza materiais, proteção, ergonomia e produção em massa.
 
+## Continuidade histórica correta
+
+A aparência de 1910–1930 não permaneceu congelada até 2017.
+
+Ao longo do século XX e início do XXI, Sintica acompanhou a evolução normal dos demais países europeus em matéria de uniformes militares, policiais e administrativos. Cortes, tecidos, capacetes, calçados, equipamento, cores e soluções de campo foram sendo atualizados conforme cada época.
+
+Assim, antes da reforma de outubro de 2017, as forças sinticanas utilizavam uniformes contemporâneos semelhantes, em linguagem geral, aos de outros Estados europeus modernos. Não eram uniformes de aparência deliberadamente antiga.
+
+A forte política de preservação arquitetônica do país nunca significou congelamento de toda a cultura material. Automóveis, armamentos, telecomunicações, vestuário civil, equipamento público e indumentária estatal continuaram evoluindo normalmente. A preservação concentra-se sobretudo em edifícios, fachadas, volumes, materiais, paisagem urbana e contextos históricos protegidos.
+
+A reforma de Mihail deve, portanto, ser entendida como uma **reintrodução consciente de linguagem histórica**. Elementos das tradições militares e policiais sinticanas das décadas de 1910–1930 são recuperados e reinterpretados com engenharia, ergonomia, proteção e materiais contemporâneos.
+
+Existe, portanto, uma ruptura visual deliberada entre os uniformes europeus modernos usados imediatamente antes de 2017 e a nova família neo-histórica aprovada em outubro daquele ano.
+
 ## Filosofia
 
 A medida segue a política geral de Mihail: modernizar sem apagar identidade histórica.
