@@ -1,53 +1,53 @@
-# Assentamentos do projeto de Novo Selo
+# Assentamentos de Sintica
 
-Status: **cânone de trabalho aprovado pelo autor**.
+Status: **cânone ativo do Principado de Sintica**.
 
 ## Princípio territorial
 
-O território usa apenas a **mesma área física do atual Município de Novo Selo, Macedônia do Norte**. A história, os nomes de lugares, a evolução política e a identidade do país fictício não precisam reproduzir a história real dos assentamentos atuais.
+O território de Sintica corresponde, em geometria moderna, à **mesma área física do atual Município de Novo Selo, Macedônia do Norte**. Os nomes reais contemporâneos servem apenas como chave cartográfica externa e **não existem dentro da continuidade ficcional**.
 
-A referência geográfica externa possui 16 assentamentos. Todos recebem nomes fictícios próprios neste projeto.
+A referência geográfica possui 16 assentamentos. A lista abaixo fixa agora os **16 nomes canônicos** usados no projeto.
 
 ## Regra de toponímia
 
-- Os nomes devem obedecer a padrões historicamente plausíveis para o sudeste dos Bálcãs, mas o país **não deve parecer simplesmente uma variante eslava da Macedônia do Norte ou da Bulgária**.
-- A toponímia moderna deve conservar uma camada local própria, com forte presença de formas pré-eslavas ou não eslavas fossilizadas.
-- A inspiração estrutural pode recorrer a estratos históricos plausíveis da região: grego/bizantino, românico balcânico (incluindo padrões aromenos), latino tardio e otomano, sem transformar o país automaticamente em continuação direta de qualquer um desses povos.
-- Topônimos de origens diferentes podem coexistir. Isso é desejável: a identidade do país deve parecer formada por séculos de sedimentação histórica, e não por uma campanha moderna de renomeação uniforme.
-- Evitar concentração de terminações tipicamente eslavas como `-ovo`, `-evo`, `-ica`, `-inci`, `-ani` e pares como `Goren/Dolen`, salvo quando uma história específica justificar sua sobrevivência.
-- Não usar nomes de fantasia nem pseudo-grego, pseudo-romeno ou pseudo-turco. As formas fictícias devem permanecer compatíveis com padrões fonológicos e toponímicos balcânicos reais.
-- A etimologia individual de cada assentamento permanece aberta até a cronologia do país explicar qual camada histórica deu origem ao nome.
-- Formas históricas em outras línguas só serão fixadas quando a cronologia justificar presença administrativa, demográfica ou diplomática real.
-- O alfabeto e a língua oficial do país ainda não estão definidos; por isso os nomes canônicos atuais são registrados apenas em forma latina de referência.
+A regra anterior de nomes apenas inventados por plausibilidade sonora está superada.
 
-## Correspondência territorial de referência
+A partir deste ponto:
 
-| Assentamento real usado apenas como referência cartográfica | Assentamento fictício |
-|---|---|
-| Novo Selo | **Armina** |
-| Sušica | **Livadi** |
-| Mokrino | **Kastru** |
-| Mokrievo | **Avela** |
-| Borisovo | **Thermia** |
-| Kolešino | **Mavria** |
-| Zubovo | **Dervent** |
-| Samoilovo | **Perivol** |
-| Smolare | **Nereta** |
-| Draževo | **Kallara** |
-| Staro Konjarevo | **Sterna** |
-| Novo Konjarevo | **Melia** |
-| Bajkovo | **Ardel** |
-| Badilen | **Kemer** |
-| Stinik | **Pera** |
-| Barbarevo | **Vardena** |
+- topônimos importantes devem partir de formas **realmente atestadas** em línguas e regiões históricas plausíveis;
+- a estrutura do nome precisa ser correta para sua língua de origem;
+- a presença histórica da comunidade responsável pelo nome precisa fazer sentido no período correspondente;
+- formas paralelas e adaptações locais podem surgir depois, mas não apagam o nome canônico aqui fixado;
+- Sintica pode preservar topônimos gregos, búlgaros, turcos, romenos, húngaros ou germânicos sem que isso implique maioria étnica contemporânea dessas comunidades;
+- a heterogeneidade toponímica é parte da história sedimentar do país, não uma campanha artificial de renomeação;
+- quando houver forma histórica em alfabeto original, ela deve ser registrada corretamente.
 
-## Observações
+## Os 16 assentamentos canônicos
 
-- **Armina** ocupa a posição geográfica do atual Novo Selo e funciona provisoriamente como principal centro do território, mas o status de capital continua em aberto.
-- A nova camada toponímica é deliberadamente menos eslava do que nas versões anteriores. O objetivo é que, à primeira vista, o país pareça balcânico, mas não imediatamente identificável como apenas macedônio ou búlgaro.
-- **Livadi, Thermia, Mavria, Sterna, Melia e Pera** remetem estruturalmente a formas gregas ou bizantinas plausíveis.
-- **Armina, Kastru, Avela, Nereta, Kallara, Ardel e Vardena** são tratados como formas locais antigas ou românico-balcânicas fossilizadas, cuja etimologia detalhada ainda será definida.
-- **Dervent** e **Kemer** representam a possibilidade de uma camada otomana preservada na toponímia sem implicar população turca majoritária no presente.
-- **Perivol** representa um tipo de topônimo balcânico que pode ter atravessado mais de uma língua regional ao longo dos séculos.
-- Os nomes reais da coluna de referência não existem dentro da continuidade ficcional; servem somente como chave cartográfica.
-- Montanhas, rios, estradas e demais acidentes geográficos ainda não foram renomeados neste estágio.
+| Referência cartográfica externa | Nome canônico em Sintica | Origem linguística/modelo atestado |
+|---|---|---|
+| Novo Selo | **Kerasia** | grego — Κερασιά |
+| Sušica | **Kerkini** | grego — Κερκίνη |
+| Mokrino | **Livadia** | grego — Λιβαδιά |
+| Mokrievo | **Gabrene** | búlgaro — Габрене |
+| Borisovo | **Rupite** | búlgaro — Рупите |
+| Kolešino | **Marikostinovo** | búlgaro — Марикостиново |
+| Zubovo | **Akpınar** | turco |
+| Samoilovo | **Çınarlı** | turco |
+| Smolare | **Karataş** | turco |
+| Draževo | **Rășinari** | romeno |
+| Staro Konjarevo | **Săliște** | romeno |
+| Novo Konjarevo | **Fântânele** | romeno |
+| Bajkovo | **Kővágóörs** | húngaro |
+| Badilen | **Nagybörzsöny** | húngaro |
+| Stinik | **Rosenau** | alemão austríaco |
+| Barbarevo | **Hirschbach** | alemão austríaco |
+
+## Observações de continuidade
+
+- Esta lista substitui integralmente o antigo conjunto provisório `Armina`, `Livadi`, `Kastru`, `Avela`, `Thermia`, `Mavria`, `Dervent`, `Perivol`, `Nereta`, `Kallara`, `Sterna`, `Melia`, `Ardel`, `Kemer`, `Pera` e `Vardena`.
+- Os 16 nomes acima são **canônicos**. O que ainda pode ser desenvolvido é a história de cada topônimo: fundação, comunidade de origem, forma local posterior, exônimos, mudanças administrativas e variantes multilíngues.
+- O fato de `Kővágóörs`, `Nagybörzsöny`, `Rosenau`, `Hirschbach`, `Akpınar`, `Çınarlı` e `Karataş` existirem como nomes reais fora de Sintica é deliberado: eles são utilizados aqui como topônimos historicamente atestados, reaproveitados dentro da continuidade ficcional.
+- A presença desses nomes deve ser explicada por migração, colonização, patronato, reassentamento, administração histórica ou preservação oficial de topônimos, e não por mistura linguística arbitrária.
+- A capital ainda pode ser definida entre estes assentamentos; a canonização dos nomes não fixa automaticamente hierarquia urbana.
+- Montanhas, rios, estradas e demais acidentes geográficos continuam sujeitos a desenvolvimento próprio.
