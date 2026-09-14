@@ -46,7 +46,41 @@ O Pacific Response entra na história porque esses delitos cruzam a esfera profi
 
 Thomas e Mihail enfrentam Mathieu em mais de uma ocorrência e acabam participando juntos do confronto decisivo. O destino jurídico final de Mathieu permanece aberto para desenvolvimento posterior.
 
-## 5. Continuidade
+## 5. Desenvolvimento das Habilidades de Mihail
+
+O ano no Canadá **não cria novas Habilidades** em Mihail. O Pacific Response trabalha sobretudo controle, segurança, aplicação e uso sob pressão.
+
+### Teleporte
+É a Habilidade que mais melhora tecnicamente. Mihail aperfeiçoa saltos curtos repetidos, seleção de pontos livres de chegada, leitura rápida de fotografias e outras referências visuais, recuperação de equilíbrio após a chegada e uso do teleporte como reposicionamento de resgate/fuga. O ganho principal é precisão e fluidez, não aumento bruto de alcance. Continua não estabelecido que consiga transportar outra pessoa como passageiro.
+
+### Éter
+É a Habilidade que mais evolui taticamente. Mihail passa a usá-la com maior controle fino: empurrões e puxões curtos, sustentação momentânea de pequenas massas, barreiras localizadas, desaceleração ou desvio de objetos e contenção de destroços. Continua sendo manipulação de éter condensado, não magia arbitrária.
+
+### Inteligência Superior
+Não recebe simplesmente “mais inteligência”. Mihail aprende a aplicar melhor a capacidade sob informação incompleta, construir planos com alternativas, delegar, revisar hipóteses durante uma ocorrência e reconhecer padrões de movimento e comportamento. Isso se torna importante na luta contra Charnière.
+
+### Tinta Preta
+Melhora especialmente como ferramenta de suporte e controle visual: cobrir câmeras e superfícies transparentes, marcar rotas e objetos, atravessar frestas, criar cortinas opacas rápidas e manipular pequenos volumes com precisão. A tinta continua líquida e não se transforma em corda ou lâmina rígida.
+
+### O Sangue Mais Forte e Ossos Duros
+São manifestações predominantemente corporais/passivas. O treino melhora quedas, equilíbrio, absorção de impacto, postura, resistência e consciência de que ossos resistentes não tornam músculos, tendões, órgãos ou cérebro invulneráveis. Mihail não aprende a controlar conscientemente o reservatório hereditário de O Sangue Mais Forte.
+
+### Oxigênio Sólido
+O progresso é deliberadamente conservador devido ao risco. Mihail melhora controle de pequenas quantidades, evita uso prolongado em espaços fechados, aprende a reconhecer risco de hipóxia e mantém o material longe de combustíveis e fontes de ignição. O objetivo é segurança, não potência.
+
+### Transporte de Mente
+Não recebe treinamento consciente, porque Mihail continua sem saber que possui essa Habilidade. O arco não fixa descoberta ou domínio dela.
+
+### Ordem aproximada de desenvolvimento
+1. **Teleporte** — maior ganho técnico e de precisão;
+2. **Éter** — maior ganho tático;
+3. **Inteligência Superior** — maior ganho de aplicação sob pressão e em equipe;
+4. **Tinta Preta** — forte melhora de controle fino;
+5. **O Sangue Mais Forte / Ossos Duros** — melhor condicionamento e consciência corporal;
+6. **Oxigênio Sólido** — melhora principalmente de segurança;
+7. **Transporte de Mente** — permanece desconhecido e sem treino consciente.
+
+## 6. Continuidade
 
 O detalhamento completo de Mathieu, Thomas e do núcleo escolar pertence prioritariamente ao repositório `MrRavier/Hero-universe-ravier`; este arquivo preserva os elementos que afetam diretamente a biografia de Mihail, Dora e a continuidade de Sintica.
 
