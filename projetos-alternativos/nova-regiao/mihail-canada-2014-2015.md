@@ -28,12 +28,26 @@ Como a primogenitura absoluta está em vigor para gerações futuras, eventual p
 
 ## 4. Vilão central do arco canadense
 
-Durante os meses de formação, Mihail e Thomas enfrentam juntos o antagonista principal do arco: **um jovem com morfologia extraordinária poliarticulada**.
+Durante os meses de formação, Mihail e Thomas enfrentam juntos **Mathieu Beaulieu**, conhecido criminalmente como **Charnière**.
 
-Seu corpo possui numerosas articulações adicionais nos membros e permite alongamento moderado por desdobramento desses segmentos. Ele consegue acelerar o braço em sequência e literalmente atingir adversários com uma **chicotada produzida pelo próprio braço**.
+Mathieu é um jovem franco-canadense do Québec, nascido em **Trois-Rivières em 1994**, portanto de idade próxima à de Mihail e Thomas durante o arco. Sua língua materna é o francês e ele fala inglês funcional com sotaque québécois perceptível.
 
-Não se trata de elasticidade ilimitada: o alcance é finito e depende da anatomia articulada extraordinária. Nome, identidade civil, motivação e destino final do antagonista permanecem abertos.
+Sua Habilidade é uma **morfologia poliarticulada**: braços e pernas possuem numerosas articulações adicionais integradas a uma anatomia extraordinária estável. Ao alinhar e desdobrar esses segmentos, ele consegue alongar moderadamente os membros, atacar em ângulos anormais e mudar de trajetória durante o movimento.
+
+Sua técnica de combate mais característica consiste em acelerar sucessivamente as articulações do braço e literalmente produzir uma **chicotada com o próprio membro**. O impacto vem da velocidade e transferência de momento, não de superforça genérica.
+
+A Habilidade não é elasticidade ilimitada. O alcance adicional é finito; golpes fortes exigem espaço; prender articulações intermediárias reduz a eficiência; uso repetido causa fadiga e dor; e seu corpo continua vulnerável a trauma.
+
+Mathieu é inteligente, sarcástico, orgulhoso e avesso à sensação de controle institucional. Experiências reais de medicalização, avaliação e regulação alimentam seu ressentimento, mas ele transforma essas experiências numa justificativa para crimes, vaidade e agressividade.
+
+Como Charnière, começa com invasões, roubo de equipamento especializado, contrabando e agressões difíceis de conter. Ao longo do arco passa a atingir empresas e instalações ligadas à resposta extraordinária e ao licenciamento, tanto por lucro quanto para humilhar instituições que considera hipócritas.
+
+O Pacific Response entra na história porque esses delitos cruzam a esfera profissional de Vancouver e algumas operações/estágios supervisionados dos alunos. Não existe ligação conspiratória secreta entre Mathieu e a escola.
+
+Thomas e Mihail enfrentam Mathieu em mais de uma ocorrência e acabam participando juntos do confronto decisivo. O destino jurídico final de Mathieu permanece aberto para desenvolvimento posterior.
 
 ## 5. Continuidade
 
-O detalhamento do vilão, Thomas e do núcleo escolar pertence prioritariamente ao repositório `MrRavier/Hero-universe-ravier`; este arquivo preserva apenas os elementos que afetam diretamente a biografia de Mihail, Dora e a continuidade de Sintica.
+O detalhamento completo de Mathieu, Thomas e do núcleo escolar pertence prioritariamente ao repositório `MrRavier/Hero-universe-ravier`; este arquivo preserva os elementos que afetam diretamente a biografia de Mihail, Dora e a continuidade de Sintica.
+
+O retorno de Mihail continua deliberadamente aberto ao autor.
