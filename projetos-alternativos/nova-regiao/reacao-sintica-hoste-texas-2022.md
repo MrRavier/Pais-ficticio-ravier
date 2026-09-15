@@ -12,6 +12,28 @@ Pouco depois, uma forma superior de comando aparece no campo do Texas e duas nov
 
 A partir desse momento, Sintica deixa de tratar o caso como crise regional americana e passa a tratá-lo como ameaça estratégica global de múltiplas frentes.
 
+## Nova descoberta: comandantes diferentes em cada frente
+
+A grande forma alada observada no Texas não aparece nas estruturas da França ou de Xinjiang.
+
+Em seu lugar, cada uma dessas duas frentes manifesta uma entidade enorme, entre aproximadamente 8 e 12 metros, com corpo parcialmente quadrúpede, estrutura óssea exposta, grande crista dorsal, cabeça alongada, membros de guerra e uma plataforma ou trono orgânico sobre o dorso.
+
+Os humanos não conhecem o nome real dessa forma.
+
+A designação provisória mais usada passa a ser **General Aberrante de Fronteira**.
+
+Na avaliação sinticana, essas formas parecem cumprir função diferente da entidade alada do Texas.
+
+A forma alada aparenta autoridade ampla e coordenação de legiões inteiras.
+
+Os Generais Aberrantes parecem mais móveis, feitos para acompanhar colunas, campanhas prolongadas e operações distantes de um centro principal.
+
+Mihail resume a mudança em privado:
+
+> "Até agora estávamos vendo funções. Depois vimos autoridade. Agora vemos cadeia de comando."
+
+Ele também insiste que "general" é apenas uma tradução funcional humana, não uma confirmação do título interno dessas entidades.
+
 ## Mihail
 
 Mihail acompanha o desenvolvimento em tempo quase real a partir de Kerasia.
@@ -22,20 +44,18 @@ Ele recebe:
 - material diplomático compartilhado por parceiros;
 - análises da pequena unidade sinticana dedicada a magia e fenômenos anômalos;
 - relatórios militares sobre implicações doutrinárias;
-- comparação entre assinaturas observadas no Texas, Xinjiang e França.
+- comparação entre assinaturas observadas no Texas, Xinjiang e França;
+- estudo comparado entre a forma alada e os dois Generais Aberrantes.
 
 Sua atenção se concentra menos na aparência monstruosa das formas e mais no sistema que elas demonstram.
 
-Ele identifica quatro pontos especialmente importantes:
+Ele identifica cinco pontos especialmente importantes:
 
 1. formas muito diferentes parecem manter origem anatômica comum;
 2. guerra, transporte, reparo, alimentação, contenção e comando aparecem integrados;
 3. a Estrutura Viva funciona como parte da operação e não apenas como abrigo;
-4. a nova forma superior demonstra hierarquia e capacidade de coordenação em escala muito maior.
-
-Ao observar a entidade de aproximadamente 7 a 9 metros, quatro asas, múltiplos braços e forte simbolismo hierárquico, Mihail comenta em privado:
-
-> "Até agora estávamos vendo funções. Agora estamos vendo autoridade."
+4. existe hierarquia funcional visível;
+5. a hierarquia parece adaptar o tipo de comandante ao teatro de operações.
 
 Ele evita afirmar publicamente que entende o mecanismo da Hoste.
 
@@ -72,7 +92,8 @@ Ela passa a comparar:
 - semelhanças e diferenças de geometria orgânica;
 - possíveis efeitos temporais e perceptivos;
 - comportamento de formas de comando;
-- relação entre a Grande Nave, o Arauto, as estruturas e a Hoste.
+- relação entre a Grande Nave, o Arauto, as estruturas e a Hoste;
+- diferenças entre o comandante alado do Texas e os Generais Aberrantes de Xinjiang e França.
 
 Nenhum padrão geográfico definitivo é aceito apenas porque os locais estão distantes entre si.
 
@@ -103,9 +124,9 @@ A oposição apoia revisão de defesa civil e prontidão, mas questiona custos, 
 A imprensa local cobre intensamente:
 
 - combate no Texas;
-- aparição da forma superior de comando;
-- nova estrutura em Xinjiang;
-- nova estrutura no interior da França;
+- aparição da forma superior alada;
+- General Aberrante em Xinjiang;
+- General Aberrante no interior da França;
 - mobilização de heróis europeus;
 - implicações para pequenos Estados;
 - possibilidade de aparecimento semelhante nos Bálcãs.
@@ -134,6 +155,8 @@ A manifestação em território francês recebe atenção especial de Sintica po
 
 A estrutura aparece em zona rural pouco densa da Creuse, na borda do Massif Central, próxima ao Plateau de Millevaches.
 
+A presença do General Aberrante aumenta imediatamente a preocupação de que a frente francesa possa entrar em fase ofensiva semelhante ao Texas.
+
 Kerasia mantém contato direto com Paris e oferece cooperação técnica.
 
 Sintica começa também a preparar hospitais e serviços de transporte para eventual apoio europeu, ainda que não exista fluxo de vítimas para os Bálcãs nesse primeiro momento.
@@ -158,4 +181,4 @@ Sintica passa a tratar a Hoste como ameaça estratégica global real, porém man
 
 Mihail continua sendo ao mesmo tempo chefe de Estado, estudioso do sobrenatural, marido e pai, sem abandonar governo cotidiano por causa da crise internacional.
 
-A existência de três Estruturas Vivas conhecidas não prova que outras aparecerão, mas torna essa possibilidade parte permanente do planejamento nacional.
+A existência de três Estruturas Vivas conhecidas e três centros de comando superiores não prova que outras aparecerão, mas torna essa possibilidade parte permanente do planejamento nacional.
