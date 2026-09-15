@@ -1,71 +1,65 @@
-# Saara — Convergência da Hoste e Papel de Mihail na Primeira Resistência (2022)
+# Saara — Convergência da Hoste e Ordem de Batalha Pré-Confronto (2022)
 
-**Status: cânone nacional.**
+**Status: cânone nacional corrigido.**
 
-Após o ultimato do último Superior, as frentes do Texas, França e Xinjiang entram em pausa abrupta e passam a convergir para o Saara.
+## Correção
 
-## Mudança nas três frentes
+A batalha do Saara ainda **não começou** neste ponto.
 
-O comandante alado do Texas abandona o teatro e acelera diretamente em direção ao Saara.
+Após a frase do Superior — "COISAS SIMPLÓRIAS ESCOLHERAM A DESTRUIÇÃO" — ambos os lados entram em reorganização e prontidão. Não há ainda ataque geral.
 
-As formas restantes no Texas entram em ataques praticamente suicidas contra posições humanas, aparentemente para cobrir a retirada do que ainda possui valor estratégico.
+## Lado terrestre
 
-Na França e em Xinjiang, as Estruturas Vivas contraem corredores, fecham câmaras e desaparecem de maneira incompatível com deslocamento físico tridimensional normal.
+A concentração humana é multinacional e improvisada. Mihail levou principalmente pessoas e material portátil; o grosso do equipamento pesado ainda está em trânsito.
 
-Pouco depois, reaparecem no Saara, próximas ao Trono-Recepção.
+Estão presentes aproximadamente **4.800 pessoas**, das quais cerca de **3.300 são combatentes imediatamente disponíveis**. Dentro do total há aproximadamente **420 extraordinários, heróis e agentes com Habilidades**.
 
-## Reorganização imperial
+Há contingentes ou representantes militares de países da OTAN, União Europeia e grandes potências externas, incluindo Estados Unidos, Canadá, Reino Unido, França, Alemanha, Itália, Polônia, Turquia, China, Rússia, Índia, Brasil, Japão, Coreia do Sul, Coreia do Norte, Austrália e outros.
 
-As formas encapuzadas em torno do Trono abandonam a disposição exclusivamente ritual e assumem formações funcionais.
+Mihail participa como soberano, combatente extraordinário, ponte de teletransporte e fonte de inteligência, mas não exerce comando supremo.
 
-Pretorianos saem das Estruturas Vivas e reforçam o Trono.
+## Lado do Superior
 
-Formas terrestres e aéreas começam a concentrar-se:
+No complexo do Trono estão aproximadamente **28.000 a 32.000 formas vivas** visíveis ou inferidas.
 
-- criaturas de guerra;
-- unidades de cerco;
-- formas de contenção;
-- transportadores;
-- Barcas Ascensionais;
-- Caçadores Alados;
-- Bombardeiros Sacrificiais;
-- formas de comando.
+Dessas, aproximadamente **21.000 a 24.000** parecem aptas a combate terrestre imediato.
 
-O comandante alado vindo do Texas integra-se novamente ao sistema de comando do campo.
+Há ainda aproximadamente **1.600 a 2.200 formas aéreas** entre Caçadores Alados, Bombardeiros Sacrificiais e Barcas Ascensionais.
 
-## A voz do Superior
+A concentração inclui pseudo-Kheruun, Pretorianos, formas de guerra, contenção, transporte, cerco, bombardeio, reparo, alimentação, processamento, coordenadores, Supervisores, pelo menos quatro Generais Aberrantes, o grande comandante alado vindo do Texas, duas Estruturas Vivas completas e o próprio Superior no Trono.
 
-O Trono entra em ressonância e a mensagem é compreendida por todos os presentes:
+## Relação numérica
 
-> **"COISAS SIMPLÓRIAS ESCOLHERAM A DESTRUIÇÃO."**
+A relação geral é de aproximadamente **6 para 1** em corpos totais a favor do Superior.
 
-Em Sintica, a frase é imediatamente registrada como o encerramento do ultimato anterior e o início da tentativa aberta de Hiperconquista.
+Entre combatentes imediatamente disponíveis, a relação fica próxima de **7 para 1**.
 
-## Mihail não é comandante da coalizão
+A vantagem humana é qualidade, diversidade de armas, heróis de grande escala, doutrinas diferentes e reforços em aproximação.
 
-Mihail não tenta assumir liderança global.
+A vantagem do Superior é massa, integração orgânica, duas Estruturas Vivas, força aérea já presente, cadeia hierárquica e preparação completa do terreno.
 
-Ele reconhece que existem generais mais experientes em guerra convencional, forças nacionais independentes e heróis com capacidades superiores às suas em áreas específicas.
+## Situação de Mihail
 
-O fato de ter transportado muitos combatentes ao Saara não lhe dá autoridade sobre eles.
+Mihail observa a concentração sem tentar assumir o comando global.
 
-Seu papel torna-se extremamente importante, mas específico:
+Ele sabe que trouxe gente suficiente para criar uma cabeça de ponte, não um exército completo.
 
-- ponte de teletransporte;
-- fonte de inteligência sobre a Hoste;
-- combatente mágico de alta mobilidade;
-- transmissor psíquico de informação;
-- capacidade de reposicionar extraordinários e retirar feridos;
-- ligação direta de Sintica com o esforço internacional.
+Seu objetivo imediato é permanecer disponível para teletransporte, inteligência, magia, ligação entre setores e resposta extraordinária assim que o primeiro disparo acontecer.
 
-## Limitação imediata
+A Guarda Real e a continuidade constitucional permanecem protegidas em Sintica.
 
-Mihail transportou pessoas, não um exército completo.
+## Estado final deste momento
 
-A concentração humana inicial no Saara possui heróis, extraordinários, unidades especiais, médicos, oficiais e contingentes leves, mas grande parte da artilharia, blindados, defesa aérea pesada, combustível, munição e forças convencionais ainda precisa chegar por transporte militar normal.
+Armas apontadas.
 
-A humanidade entra na primeira batalha do Saara em desvantagem logística e numérica.
+Heróis posicionados.
 
-O objetivo imediato é sobreviver, manter o perímetro e impedir que a Hoste destrua a cabeça de ponte antes da chegada dos reforços.
+Formas aéreas em patrulha.
 
-Mihail aceita atuar como elemento móvel dentro de uma estrutura de comando multinacional, sem reivindicar posição de comandante supremo.
+Hoste organizada.
+
+Reforços humanos a caminho.
+
+Superior sentado no Trono.
+
+**A batalha ainda não começou.**
