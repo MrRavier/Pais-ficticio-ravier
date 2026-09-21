@@ -1,6 +1,8 @@
 # Principado de Sintica — cronologia 2001–2014
 
-Status: **cânone ativo**.
+**Nota de precedência:** este arquivo é um recorte histórico de 2001–2014. O presente narrativo vigente é **2020**.
+
+Status: **cânone histórico ativo**.
 
 Este documento continua `cronologia-1981-2000.md` e leva a história nacional até o presente narrativo inicial de 2014. A história externa dos Bálcãs permanece próxima da realidade; Sintica não resolve os grandes conflitos regionais nem se transforma em potência europeia. O foco deste período é a transição de Teodor II para Aleksandar II, a crise macedônia de 2001, a integração econômica regional, a sucessão de menor de 2008 e a Regência de Katalin até a maioridade do soberano em 4 de janeiro de 2014.
 
