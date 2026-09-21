@@ -18,6 +18,14 @@ Mihail torna-se Príncipe Herdeiro em 6 de abril de 2002, sucede ao pai em 18 de
 
 `Mihail` é a forma principal usada em documentos contemporâneos e na vida pública. `Konstantin` funciona como segundo nome dinástico e familiar. Como é o primeiro soberano de Sintica a reinar com esse nome, sua forma regnal é **Mihail I**.
 
+## Presente narrativo — 2020
+
+Em 2020, Mihail tem **24 anos** e o presente narrativo ocorre durante a pandemia de COVID-19 e a recuperação da Guerra da Hoste de 2019.
+
+É casado com **Teodora “Dora” Orbelos**. O casal tem **Aleksandar Mihail Orbelos**, nascido no fim de 2019, e Dora está grávida de **Sofia Katalin Orbelos**.
+
+Mihail já restaurou a monarquia semi-constitucional depois do período emergencial da Guerra da Hoste. Em 2020 também começa a estudar de maneira controlada a verdadeira natureza de sua Habilidade de manipulação da matéria e retorna deliberadamente ao mundo vermelho/Kheruun.
+
 ## Personalidade canônica
 
 Mihail é **reservado por fora, mas extremamente intenso por dentro**. Mantém postura controlada, formal, educada e difícil de decifrar, preferindo observar antes de agir.
@@ -68,4 +76,4 @@ Mihail é um **intelectual reservado, estratégico e autocontrolado**, com uma n
 
 Este arquivo supera qualquer nota anterior que diga que o nome ou a personalidade-base do soberano contemporâneo ainda estão abertos ou reservados.
 
-Continuam em desenvolvimento sua educação detalhada, opiniões políticas específicas, relações pessoais concretas, estilo de governo em situações particulares e demais elementos narrativos ainda não definidos. Suas Habilidades e sua referência visual permanecem reguladas pelos dossiês específicos já existentes.
+Continuam em desenvolvimento sua educação detalhada, opiniões políticas específicas, nuances das relações familiares, estilo de governo em situações particulares e demais elementos narrativos ainda não definidos. O casamento com Dora, Aleksandar como filho e herdeiro e a gestação de Sofia em 2020 são cânone fixo. Suas Habilidades permanecem reguladas pelos dossiês específicos já existentes.
