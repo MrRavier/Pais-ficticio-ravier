@@ -1,12 +1,14 @@
 # Mihail I no Canadá — arco de 2014–2015
 
-Status: **cânone ativo do Principado de Sintica / crossover com Northbound**.
+Status: **cânone histórico ativo do Principado de Sintica / crossover com Northbound**.
+
+**Nota de snapshot histórico:** este arquivo descreve o arco de 2014–2015 a partir daquele período. Arquivos posteriores definem o retorno de Mihail, casamento, Guerra da Hoste de 2019 e presente de 2020.
 
 ## 1. Estadía no Canadá
 
 Durante a futura Regência de Nikola Orbelos, Mihail I Konstantin Orbelos passa aproximadamente **um ano acadêmico** no **Pacific College of Heroic Response (Pacific Response), em Vancouver**, instituição pública de formação profissional para pessoas extraordinárias.
 
-É a mesma academia de Thomas Mercer. Thomas já estudava ali e não é a razão para Nikola escolher a escola.
+É a mesma academia de Thomas Mercer. Thomas tem **18 anos** no início de 2014, já estudava ali e não é a razão para Nikola escolher a escola. Ele é apenas mais um aluno da instituição, sem posição especial.
 
 Mihail continua juridicamente Príncipe Soberano de Sintica durante a Regência. A causa constitucional detalhada da Regência e a forma do retorno de Mihail permanecem abertas.
 
