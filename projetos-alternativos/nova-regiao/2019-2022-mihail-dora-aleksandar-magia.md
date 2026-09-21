@@ -1,27 +1,30 @@
-# Sintica — Mihail, Dora, Aleksandar e Magia (2019–2022)
+# Mihail, magia, família e precursores da Guerra da Hoste — 2019–2020
 
-**Status: cânone nacional consolidado.**
+**Status: cânone ativo; cronologia normalizada ao retcon 2019–2020.**
 
-Este documento registra os desenvolvimentos de Mihail I Orbelos, Dora, Aleksandar e o contexto interno de Sintica entre 2019 e 2022.
+O nome antigo deste arquivo pode conter referências a 2022 por razões históricas do repositório. Quando houver conflito de datas, prevalece a cronologia vigente: **Guerra da Hoste em 2019 e presente narrativo em 2020**.
 
-## Mihail e a Habilidade mental
+## 1. Habilidade psíquica unificada
 
-As manifestações mentais de Mihail pertencem a uma única Habilidade psíquica, não a poderes separados.
+As manifestações mentais de Mihail pertencem a uma única Habilidade, **Psique**.
 
 Ela inclui:
 
-- leitura mental de pensamentos, imagens, intenções e emoções;
-- acesso mais profundo a lembranças em contato intenso;
+- leitura de pensamentos, imagens, intenções e emoções;
+- acesso profundo a memórias em imersão intensa;
 - ilusões mentais;
+- introspecção da própria mente;
 - transferência/troca de mente para outro corpo vivo.
 
-O primeiro uso completo de troca de mente ocorre acidentalmente com Dora e permite acesso involuntário a fragmentos de memória e conteúdo subconsciente dela.
+O primeiro uso completo de troca de mente ocorre acidentalmente com Dora. Durante o episódio, Mihail acessa involuntariamente fragmentos íntimos de memória e subconsciente dela.
 
-O casal estabelece forte regra de consentimento para usos mentais deliberados.
+A partir daí o casal estabelece uma regra forte de consentimento para uso deliberado de Psique.
 
-## Tinta Preta
+## 2. Tinta Preta
 
-A Tinta Preta evolui para controle de estado:
+A Tinta Preta evolui de simples emissão para controle de consistência e forma.
+
+Mihail consegue mantê-la:
 
 - líquida;
 - viscosa;
@@ -29,141 +32,154 @@ A Tinta Preta evolui para controle de estado:
 - elástica;
 - sólida.
 
-Mihail também passa a controlá-la externamente como extensão corporal, formando mãos, braços, placas, fios, apoios e massas controladas.
+Também consegue controlá-la externamente como extensão corporal, formando mãos, braços, fios, placas, apoios, escudos e massas de contenção.
 
-## Éter
+A substância continua sendo Tinta Preta; ela não se transforma livremente em outros materiais.
 
-Mihail adquire controle fino muito maior sobre o Éter, incluindo múltiplos pontos de força, superfícies curvas, amortecimento, sustentação precisa e campos pequenos mantidos simultaneamente.
+## 3. Éter
 
-O Éter é uma Habilidade biológica inata. Manipular Éter não é, por si só, praticar magia.
+Mihail desenvolve controle fino de Éter, com múltiplos pontos de força, superfícies curvas, amortecimento, sustentação precisa e pequenos campos mantidos simultaneamente.
 
-## Descoberta da magia
+**Éter é Habilidade inata.**
+
+Usar Éter não é, por si só, praticar magia.
+
+## 4. Descoberta da magia
 
 Magia existe de verdade e pode ser aprendida.
 
-A distinção central adotada por Mihail é:
+A distinção canônica usada por Mihail é:
 
 **Habilidade é algo que a pessoa é; magia é algo que a pessoa faz.**
 
-Durante oração solitária de madrugada na catedral de Kerasia, Mihail entra em experiência introspectiva profunda na qual sua mente representa memórias, Habilidades e segredos como salas, corredores e portas.
+Durante oração solitária de madrugada na catedral de Kerasia, Mihail entra em experiência introspectiva profunda na qual sua mente representa memórias, Habilidades e segredos como corredores, salas e portas.
 
-Ali compreende a diferença entre Éter e magia por meio de uma analogia:
+A analogia que ele formula é:
 
 - usar Éter é como pegar uma barra de ferro e arremessá-la;
-- fazer magia é como fabricar uma adaga e usá-la.
+- fazer magia é como fabricar uma adaga e depois usá-la.
 
-A mente de Mihail manifesta uma porta metafísica que representa magia verdadeira, algo externo à herança biológica e acessível apenas por conhecimento e prática.
+A “porta” da magia não se abre completamente porque a chave é conhecimento e prática.
 
-## Estudos na biblioteca
+## 5. Biblioteca e estudo
 
-Do fim de 2019 em diante, Mihail passa grande quantidade de tempo nos arquivos e na biblioteca dos Orbelos.
+Do fim de 2019 em diante, Mihail passa muito tempo na biblioteca privada e nos arquivos dos Orbelos.
 
-Ele revisa manuscritos, cartas, diários, textos teológicos, folclóricos, médicos e ocultistas, além de inventários de objetos antigos.
+Estuda:
 
-Gradualmente aprende práticas mágicas limitadas, como:
+- diários;
+- cartas;
+- textos teológicos;
+- medicina antiga;
+- folclore;
+- ocultismo;
+- inventários de objetos;
+- manuscritos gregos, eslavos, alemães, franceses, latinos, romenos e otomanos.
+
+Ele aprende gradualmente práticas limitadas de:
 
 - marcação direcional de objetos;
 - proteção simples de espaço;
 - leitura de impressão residual;
 - ocultação perceptiva limitada;
-- técnicas de concentração.
+- técnicas de concentração e estabilização ritual.
 
-Também percebe que Éter pode servir como meio eficiente para estabilizar certos efeitos mágicos sem deixar de ser uma Habilidade inata.
+Alguns objetos antigos da Casa revelam propriedades sobrenaturais genuínas.
 
-## Dora — Strong Blood e plantas
+Mihail também percebe que Éter pode servir como meio eficiente para certos efeitos mágicos sem deixar de ser uma Habilidade inata.
 
-Durante a troca mental acidental, Mihail percebe que Dora possui Strong Blood naturalmente, como membro da linhagem Orbelos.
+## 6. Dora — Strong Blood e Habilidade vegetal
 
-Ela também possui uma Habilidade dormente ligada à percepção e comunicação com plantas.
+Dora possui **O Sangue Mais Forte / Strong Blood** naturalmente dentro da linhagem Orbelos.
 
-As primeiras manifestações permitem sentir:
+Também possui Habilidade ligada à percepção e comunicação com plantas.
 
-- falta/excesso de água;
+As primeiras manifestações permitem perceber:
+
+- falta ou excesso de água;
 - doença;
 - parasitas;
 - estresse;
 - crescimento;
 - condição de raízes.
 
-Depois a Habilidade evolui para orientar respostas vegetais simples, como crescimento, brotação, enraizamento e movimentos naturais de espécies capazes disso.
+Depois ela consegue orientar respostas vegetais simples, como crescimento, brotação, enraizamento e movimentos naturais de espécies capazes disso.
 
-## Gravidez e nascimento
+A experiência é sensorial, não necessariamente verbal.
 
-Dora engravida no fim de 2019/início de 2020.
+## 7. Família — correção cronológica
 
-Quando a gestação atinge estágio adequado para identificação confiável do sexo, ultrassonografia confirma um menino.
+A cronologia familiar vigente é:
 
-O filho recebe o nome:
+- Mihail e Dora casam-se no fim de 2018/início de 2019;
+- **Aleksandar Mihail Orbelos nasce no fim de 2019**;
+- em 2020, Aleksandar é o herdeiro direto da Casa de Orbelos;
+- em 2020, Dora está grávida de **Sofia Katalin Orbelos**.
 
-**Aleksandar Mihail Orbelos**
-
-em homenagem ao pai de Mihail, Aleksandar II Orbelos (1957–2008).
-
-Aleksandar nasce no segundo semestre de 2020 em hospital moderno, com Mihail presente.
-
-Ele se torna herdeiro direto da Casa de Orbelos.
-
-## Família em 2021
-
-- Mihail I: 25 anos;
-- Dora: 24 anos;
-- Aleksandar: menos de 1 ano / cerca de 1 ano conforme o mês;
-- Maria Ilona: 21–22 anos;
-- Katalin: 52–53 anos;
-- Nikola: 56–57 anos;
-- Sofia: 60–61 anos.
+Ficam superadas neste arquivo as versões antigas segundo as quais Dora estava grávida de Aleksandar em 2020 ou Aleksandar nasceu no segundo semestre de 2020.
 
 Mihail insiste em que Aleksandar seja criado primeiro como criança e não submetido a testes extraordinários invasivos sem necessidade médica.
 
-## Pandemia e vida do país
+## 8. Pandemia e vida de Sintica em 2020
 
-A pandemia de COVID-19 afeta Sintica em 2020:
+A pandemia de COVID-19 afeta:
 
-- queda brusca de turismo;
-- redução de ocupação do Grand Hotel Sintica;
-- ensino remoto;
-- telemedicina;
-- digitalização acelerada de serviços públicos;
-- redução de eventos sociais;
-- restrições temporárias a bailes e recepções.
+- turismo;
+- ocupação do Grand Hotel Sintica;
+- escolas;
+- bailes e recepções;
+- funcionamento presencial do Estado;
+- saúde pública.
 
-A recuperação ocorre gradualmente em 2021–2022.
+Sintica expande telemedicina, ensino remoto/híbrido, serviços públicos digitais e protocolos médicos adaptados a diferentes morfologias extraordinárias.
 
-## Grand Hotel Sintica
+A medicina extraordinária, os heróis profissionais e a resposta especializada **já existiam muito antes da Guerra da Hoste**. A guerra acrescentou sobretudo experiência dimensional/Kheruun, interoperabilidade e doutrina de crise de escala global.
 
-O Grand Hotel permanece como um dos principais edifícios civis e sociais de Kerasia.
+## 9. Grande Nave e Canal do Panamá — data normalizada
 
-Durante 2020 opera parcialmente, com alas fechadas, baixa ocupação e manutenção antecipada.
+Os eventos inicialmente arquivados como “2022” pertencem, pela cronologia atual, à escalada de **2019** que culmina na Guerra da Hoste.
 
-Com a reabertura, volta a receber delegações, casamentos, recepções e bailes.
+Uma Grande Nave de geometria dupla/não euclidiana manifesta-se sobre o Canal do Panamá.
 
-## Bailes
+Surge um **Arauto** cuja comunicação é compreendida por pessoas de diferentes línguas sem depender de tradução sonora normal.
 
-Os bailes continuam tradição social viva de Sintica.
+A mensagem afirma que a Terra já pertence ao **Superior**.
 
-O Grand Hotel é um dos principais palcos civis; o Palácio recebe eventos mais restritos e protocolares.
+Em incidente posterior, uma Forma de Transporte de Guerra aparece junto ao Canal com figuras encobertas executando movimentos/dança de função inicialmente desconhecida.
 
-A tradição combina repertório clássico, centro-europeu, balcânico e música moderna ao longo da noite.
+No momento desses primeiros eventos, a humanidade ainda não compreende a origem completa da força.
 
-O primeiro grande baile pós-pandemia torna-se símbolo da retomada da vida social.
+À luz do cânone posterior, esses acontecimentos são reconhecidos como parte da presença **Kheruun/Hoste** que culmina na guerra de 2019.
 
-## Caso do quadro roubado
+## 10. Conhecimento posterior sobre os Kheruun
 
-Um casal estrangeiro tenta deixar Sintica de trem depois de roubar um quadro de uma galeria privada em Kerasia.
+O desenvolvimento posterior estabelece que:
 
-Durante uma live, a Guarda de Fronteira para o trem, entra no compartimento e realiza inspeção da bagagem.
+- os Kheruun são uma espécie superior não humana originária de um mundo quadridimensional adjacente à Terra;
+- a própria civilização Kheruun foi devastada por aniquilação interna;
+- a Hoste inclui formas biológicas derivadas de humanos primitivos abduzidos e remodelados há eras;
+- o último Superior é o último Kheruun verdadeiro conhecido da força invasora;
+- a Guerra da Hoste de 2019 é o primeiro contato/crise alienígena globalmente incontornável da era moderna, mas não significa que alienígenas nunca tenham tocado a Terra antes;
+- outras espécies extraterrestres também existem no universo e não devem ser reduzidas aos Kheruun.
 
-O quadro é encontrado escondido em fundo falso.
+## 11. Habilidade material de Mihail
 
-O episódio fica conhecido popularmente como **o roubo da live**.
+Durante o clímax de 2019, Mihail descobre que “Oxigênio sólido” era apenas uma aplicação de **Reconfiguração/Manipulação de Matéria**.
 
-## Regra de continuidade
+A capacidade alcança escala atômica/nuclear apenas sob esforço extremo.
 
-A partir deste ponto, todo novo desenvolvimento de Sintica deve preservar:
+Os testes de 2020, incluindo hélio, retorno ao mundo vermelho e estabilização de matéria radioativamente instável, estão registrados no dossiê pós-guerra específico.
 
-- a distinção entre Habilidades inatas e magia aprendida;
-- a natureza unificada da Habilidade mental de Mihail;
-- a evolução da Tinta Preta;
-- o Strong Blood de Dora e sua Habilidade vegetal;
-- Aleksandar Mihail Orbelos como filho e herdeiro direto de Mihail e Dora;
-- Sintica como Estado europeu moderno, ainda que com forte continuidade histórica e ritual social.
+## 12. Regra de continuidade
+
+Novos desenvolvimentos devem preservar:
+
+- Psique como Habilidade mental unificada;
+- distinção entre Habilidades inatas e magia aprendida;
+- Éter como Habilidade inata;
+- Tinta Preta como substância própria controlável;
+- Dora com Strong Blood e Habilidade vegetal;
+- Aleksandar nascido no fim de 2019;
+- Dora grávida de Sofia em 2020;
+- Guerra da Hoste em 2019;
+- presente narrativo em 2020.
