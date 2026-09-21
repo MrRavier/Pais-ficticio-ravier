@@ -120,7 +120,7 @@ Feriados principais: 1 jan.; 7 jan.; Páscoa Ortodoxa; 1 maio; 24 maio; **9 agos
 - **fim de 2018/início de 2019:** casamento.
 - **2019:** Guerra da Hoste/Kheruun; morte do último Superior; desaparecimento da Hoste terrestre; restauração semi-constitucional.
 - **fim de 2019:** nascimento de Aleksandar Mihail.
-- **2020:** presente narrativo; COVID-19; Dora grávida de Sofia Katalin.
+- **2020:** presente narrativo; COVID-19; Dora grávida de Sofia Katalin; Mihail retorna deliberadamente ao mundo vermelho/Kheruun, testa aplicações controladas de sua verdadeira Habilidade material e estabelece o **Protocolo Vermelho**.
 
 Arquivos antigos com 2022/2023 no nome devem ser interpretados por `migracao-datas-legadas-2019-2020.md`.
 
@@ -133,6 +133,8 @@ Arquivos antigos com 2022/2023 no nome devem ser interpretados por `migracao-dat
 - `complemento-igreja-ortodoxa-1920-2020.md`
 - `chave-cartografica-interna-e-infraestrutura-2020.md`
 - `migracao-datas-legadas-2019-2020.md`
+- `habilidades-principe-contemporaneo.md`
+- `mihail-retorno-mundo-vermelho-helio-e-testes-materia-2020.md`
 
 ## Ainda deliberadamente aberto
 
